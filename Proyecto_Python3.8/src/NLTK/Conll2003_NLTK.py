@@ -5,7 +5,7 @@ Created on 6 may. 2021
 @author: DIEGO
 '''
 import nltk
-from nltk.metrics.scores import accuracy
+from nltk.metrics.scores import accuracy, precision
 from nltk.metrics.scores import recall
 from nltk.metrics.scores import f_measure
 #Cargamos los datos de wikigold.
@@ -33,16 +33,42 @@ listed_pos_and_ne= multiline_string.split()
 #Borramos las etiquetas POS y renombramos la variable
 del listed_pos_and_ne[1::3]
 listed_ne=listed_pos_and_ne
- 
-#Paso a tuplas
-nltk_formatted_prediction=list(group(listed_ne,2))
 #Limpiamos las anotaciones de referencia para que solo contenga las etiquetas de NER.
 anotacion=[]
 for tuplas in reference_annotations :
     anotacion.append(tuplas[0]) 
     anotacion.append(tuplas[3])
-print(anotacion)
+known_entities= ["B-PERSON","I-PERSON","B-ORGANIZATION","I-ORGANIZATION","B-LOCATION","I-LOCATION","B-GPE","I-GPE","O"]
+for n,i in enumerate(anotacion):
+    if i=="B-PER":
+        anotacion[n] = "B-PERSON"
+    if i=="I-PER":
+        anotacion[n] = "I-PERSON"
+    if i=="B-ORG":
+        anotacion[n] = "B-ORGANIZATION"
+    if i=="I-ORG":
+        anotacion[n] = "I-ORGANIZATION"
+    if i=="B-LOC":
+        anotacion[n] = "B-LOCATION"
+    if i=="I-LOC":
+        anotacion[n] = "I-LOCATION"
+#print(listed_ne)
+for n,i in enumerate(listed_ne):
+    if i=="B-GPE":
+        listed_ne[n]="B-LOCATION"
+    if i=="I-GPE":
+        listed_ne[n]="I-LOCATION"
+    if i not in known_entities:
+        if listed_ne[n].startswith("B-"):
+           listed_ne[n]="B-MISC"
+        if listed_ne[n].startswith("I-"):
+            listed_ne[n]="I-MISC"
+#print(listed_ne)
 reference_annotations=list(group(anotacion, 2))
+#print(reference_annotations)
+#print(nltk_formatted_prediction)
+#Paso a tuplas
+nltk_formatted_prediction=list(group(listed_ne,2))
 #Calculamos las distintas puntuaciones.
 nltk_accuracy=accuracy(reference_annotations, nltk_formatted_prediction)
 nltk_recall=recall(set(reference_annotations), set(nltk_formatted_prediction))
