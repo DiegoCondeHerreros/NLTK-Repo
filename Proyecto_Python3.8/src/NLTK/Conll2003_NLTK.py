@@ -70,9 +70,16 @@ reference_annotations=list(group(anotacion, 2))
 #Paso a tuplas
 nltk_formatted_prediction=list(group(listed_ne,2))
 #Calculamos las distintas puntuaciones.
+
+nltk_precision=precision(set(reference_annotations),set(nltk_formatted_prediction))
 nltk_accuracy=accuracy(reference_annotations, nltk_formatted_prediction)
 nltk_recall=recall(set(reference_annotations), set(nltk_formatted_prediction))
 nltk_f=f_measure(set(reference_annotations), set(nltk_formatted_prediction),1)
+print("Precision")
+print(nltk_precision)
+print("Accuracy")
 print(nltk_accuracy)    
+print("Recall")
 print(nltk_recall)
+print("F1")
 print(nltk_f)
