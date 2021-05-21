@@ -139,6 +139,3 @@ print(stanford_f)
 #doc = nlp("Barack Obama was born in Hawaii.")
 #print(doc)
 #print(doc.entities)
-
-
-#
