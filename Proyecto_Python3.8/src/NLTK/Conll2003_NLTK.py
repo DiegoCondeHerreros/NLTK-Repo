@@ -8,6 +8,12 @@ import nltk
 from nltk.metrics.scores import accuracy, precision
 from nltk.metrics.scores import recall
 from nltk.metrics.scores import f_measure
+from nltk.tag import StanfordNERTagger
+from nltk.tag.stanford import StanfordTagger
+#Código necesario para que no de un LookupError al ejecutar StanfordNER
+import os
+java_path = "C:/Program Files/Java/jdk1.8.0_171/bin/java.exe"
+os.environ['JAVAHOME'] = java_path
 #Cargamos los datos de wikigold.
 raw_annotations_test= open("test.txt",encoding="UTF-8").read()
 split_annotations=raw_annotations_test.split()
@@ -60,7 +66,7 @@ for n,i in enumerate(listed_ne):
         listed_ne[n]="I-LOCATION"
     if i not in known_entities:
         if listed_ne[n].startswith("B-"):
-           listed_ne[n]="B-MISC"
+            listed_ne[n]="B-MISC"
         if listed_ne[n].startswith("I-"):
             listed_ne[n]="I-MISC"
 #print(listed_ne)
@@ -75,11 +81,64 @@ nltk_precision=precision(set(reference_annotations),set(nltk_formatted_predictio
 nltk_accuracy=accuracy(reference_annotations, nltk_formatted_prediction)
 nltk_recall=recall(set(reference_annotations), set(nltk_formatted_prediction))
 nltk_f=f_measure(set(reference_annotations), set(nltk_formatted_prediction),1)
-print("Precision")
+print("NLTK-Precision")
 print(nltk_precision)
-print("Accuracy")
+print("NLTK-Accuracy")
 print(nltk_accuracy)    
-print("Recall")
+print("NLTK-Recall")
 print(nltk_recall)
-print("F1")
+print("NLTK-F1")
 print(nltk_f)
+
+#####STANFORD NER TAGGER#######
+#Hay tres programas de NER:
+#StanfordNER que es la que se emplea en el código a continuación y consiste en el clasificador
+#CoreNLP es una pipeline de procesamiento pero a efectos de ner se usa StanfordNER asi que da igual
+#StanfordNLP o Stanza 
+st = StanfordNERTagger('StanfordNER/english.conll.4class.distsim.crf.ser.gz',
+                       'StanfordNER/stanford-ner-4.2.0.jar',
+                       encoding='utf-8')                  
+stanford_prediction = st.tag(pure_tokens)
+#De base esto va a dar puntuaciones malísimas porque StanfordNER no tiene esquema de etiquetado BIO luego da resultados alrededor del 63-64
+#Cambiamos las anotaciones de referencia para ignorar esquema de etiquetado IOB
+#Con estos cambios da: A: 0.8166, P: 0.6386, R: 0.9237, F:0.6386 pero hasta que punto sirve si no usa IOB?
+reference_annotations_aux=reference_annotations
+for n,i in enumerate(reference_annotations_aux):
+    print(n)
+    if i[1]=="B-PERSON":
+        reference_annotations_aux[n] = "PERSON"
+    if i[1]=="I-PERSON":
+        reference_annotations_aux[n] = "PERSON"
+    if i[1]=="B-ORGANIZATION":
+        reference_annotations_aux[n] = "ORGANIZATION"
+    if i[1]=="I-ORGANIZATION":
+        reference_annotations_aux[n] = "ORGANIZATION"
+    if i[1]=="B-LOCATION":
+        reference_annotations_aux[n] = "LOCATION"
+    if i[1]=="I-LOCATION":
+        reference_annotations_aux[n] = "LOCATION"
+#print(reference_annotations_aux)
+print(stanford_prediction)
+print("StanfordNER-Accuracy")
+stanford_accuracy = accuracy(reference_annotations_aux, stanford_prediction)
+print(stanford_accuracy)
+print("StanfordNER-Precision")
+stanford_precision=precision(set(reference_annotations_aux),set(stanford_prediction))
+print(stanford_precision)
+print("StanfordNER-Recall")
+stanford_recall=recall(set(reference_annotations_aux),set(stanford_prediction))
+print(stanford_recall)
+print("StanfordNER-F1")
+stanford_f=f_measure(set(reference_annotations_aux),set(stanford_prediction),1)
+print(stanford_f)
+
+######STANZA#########
+#Esto no funciona, no me deja descargar el pipeline por algún motivo parece ser que es un problema común al que de momento no he encontrado solución
+#import stanza
+#nlp = stanza.Pipeline(lang='en', processors='tokenize,ner')
+#doc = nlp("Barack Obama was born in Hawaii.")
+#print(doc)
+#print(doc.entities)
+
+
+#
