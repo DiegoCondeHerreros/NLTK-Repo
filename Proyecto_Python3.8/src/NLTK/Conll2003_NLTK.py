@@ -104,7 +104,7 @@ stanford_prediction = st.tag(pure_tokens)
 #Con estos cambios da: A: 0.8166, P: 0.6386, R: 0.9237, F:0.6386 pero hasta que punto sirve si no usa IOB?
 reference_annotations_aux=reference_annotations
 for n,i in enumerate(reference_annotations_aux):
-    print(n)
+    #print(n)
     if i[1]=="B-PERSON":
         reference_annotations_aux[n] = "PERSON"
     if i[1]=="I-PERSON":
@@ -118,7 +118,6 @@ for n,i in enumerate(reference_annotations_aux):
     if i[1]=="I-LOCATION":
         reference_annotations_aux[n] = "LOCATION"
 #print(reference_annotations_aux)
-print(stanford_prediction)
 print("StanfordNER-Accuracy")
 stanford_accuracy = accuracy(reference_annotations_aux, stanford_prediction)
 print(stanford_accuracy)

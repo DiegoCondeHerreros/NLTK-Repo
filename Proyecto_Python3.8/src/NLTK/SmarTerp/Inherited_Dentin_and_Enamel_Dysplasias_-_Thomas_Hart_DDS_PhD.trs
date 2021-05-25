@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="auto" audio_filename="Inherited_Dentin_and_Enamel_Dysplasias_-_Thomas_Hart_DDS_PhD.wav" version="1" version_date="210315">
+<Episode>
+<Section type="report" startTime="0" endTime="3127.194">
+<Turn startTime="0" endTime="3127.194">
+<Sync time="0.000"/>
+@garbage
+<Sync time="92.122"/>
+ so the first guest speaker is doctor Tom Hart
+<Sync time="96.55"/>
+ doctor Tom Hart is leading authority on the (genetics) of (craniofacial defects)
+<Sync time="102.782"/>
+ from 2003 to 2010 he was the clinical director and chief of (Human Cranial Facial Genetics) section at National Institute for Dental and Craniofacial Research 
+<Sync time="117.675"/>
+ he's currently professor and director of craniofacial population sciences research at the College of Dentistry at University of Illinois at Chicago 
+<Sync time="130.980"/>
+ doctor Hart received his (DDS) training from Emory University with certificates in (general practice) (residency) and in (periodontology) from University of Virginia
+<Sync time="144.547"/>
+ his PhD in (human genetics) was from Medical College of Virginia 
+<Sync time="149.850"/>
+ doctor Hart has lectured extensively on genetic causes of (dental diseases)
+<Sync time="156.312"/>
+ his over 150 (peer-review) publications have greatly versed on understanding of the genetic causes of inherited (craniofacial and dental defects)
+<Sync time="167.674"/>
+ so please welcome doctor Hart
+<Sync time="170.201"/>
+ @applause
+<Sync time="172.433"/>
+ good afternoon
+<Sync time="174.028"/>
+ it's a pleasure to be here
+<Sync time="175.497"/>
+ I wanna thank the co-directors of the course and the (Dental school) for the invitation to come and speak to you about a topic that I actually feel quite passionate about
+<Sync time="185.07"/>
+ and I wanna also thank doctor Polverini for the wonderful dinner last night and the discussions 
+<Sync time="191.370"/>
+ what I would like to do is by way of overview just talk to you a little bit about genetics and how I think genetics has influenced my research and also I think is influencing the field specifically the translation of clinical research in the clinical practice 
+<Sync time="209.040"/>
+ to do that I'm gonna overview a little perspective genetics
+<Sync time="212.42"/>
+ I'm gonna talk a little bit about (enamel) and dent- defects and really from the clinical perspective as I see it now and going forward 
+<Sync time="220.380"/>
+ Jim Simmer is gonna talk more about (mechanistic biology) of these defects 
+<Sync time="225.300"/>
+ then I wanna talk a little bit about have a think session about clinical implications and I'm talking about the future of how we're gonna integrate genetics in the clinical care
+<Sync time="234.718"/>
+ and to do that I'm gonna review a little bit of the different types of (genetic diseases) just very broadly and how genetic factors contribute to disease 'cause I think that understanding is really important to understand or or trying to see where the future is going 
+<Sync time="250.755"/>
+ now with that said nowadays I think it's not a rush statement to say the etiologic basis of most human diseases can be defined in terms of or due to (gene-gene) and or (gene-environment interactions)
+<Sync time="263.782"/>
+ and in fact this whole concept which was really a little more radical at the time in the late 80s early 90s when the Human Genome Project was conceived but this idea that genetics underlies diseases was were fundamental driving force of the Human Genome Project
+<Sync time="279.96"/>
+ and the idea was that if genetics were important you need to identify the genes responsible clone them out to figure out how they function to develop better diagnostic and treatment based (etiologies)
+<Sync time="291.439"/>
+ and at the time I remind you genetics was done in small labs like (cottage industries) around the world very slow very expensive not real productive 
+<Sync time="300.150"/>
+ at the time our thoughts of genetics was really somewhat gene-centric in that we were looking or the field was focused more most people were focused on (mutations) or (genetic variants) of (coding genes) and (proteins) 
+<Sync time="313.800"/>
+ now the Human Genome Project was actually I think the culmination in some ways of a number of important discoveries in genetics and I realize in the back you may not be able to see this but earlier fundamentals and rediscovery of Mendel's Law the elucidation of the structure of (DNA) which was actually a collaborative effort identifying had a sequence of genes and how to identify had a (sequence of DNA) and how to identify (genetic markers) really was necessary preamble to the Human Genome Project
+<Sync time="340.961"/>
+ but the project itself #* state was the first big science initiative
+<Sync time="346.337"/>
+ and again as I said and I think we need to remember that impetus for the Human Genome Project was really a clinical driving force but it really led to the industrialization of science
+<Sync time="358.196"/>
+ and by that I mean development of new information systems new technologies which continues to advance at a tremendous rate even today when the Human Genome Project was begone the technologies to complete the project didn't exist but they were successfully developed
+<Sync time="372.789"/>
+ and an important factor was that outside the war time efforts you really didn't have global industries with large (R and D) budgets academics and different institutions different countries governments and private industry all participating towards the common goal
+<Sync time="387.482"/>
+ so this is in many ways the first big science particularly the first science biology project 
+<Sync time="393.690"/>
+ and as a result your taxpay- your tax dollars are actually contributing to a number of big science projects and some of them are listed here there's a website you can find more information about these
+<Sync time="404.31"/>
+ but some of these are really changing the way not only that we perform research but our understanding of science and biology and I'm gonna mention a little later the results last month of three projects (deep sequencing) projects (genome-wide association studies) and the ENCODE Project which have actually fundamentally changed in my opinion our concept of genetics of complex diseases
+<Sync time="428.159"/>
+ and as a (geneticist) I'd say the September results of the ENCODE data is the most fundamental change in genetics since I've been in the field in 25 years 
+<Sync time="438.570"/>
+ as a result of these big science projects the way we study human diseases is changing dramatically
+<Sync time="446.316"/>
+ we in addition to studying human cells we study different animal organisms mice zebra fish the (fruit fly) 
+<Sync time="452.940"/>
+ and we have high throughput technologies producing data
+<Sync time="456.982"/>
+ so with this the emphasis is on translation you know how what have you done from the #* clinically type thing
+<Sync time="463.015"/>
+ but also we need to consider how genetic factors contribute to the diagnosis and treatment of diseases and I'm gonna end up talking more about that
+<Sync time="472.305"/>
+ so what's what's the value of understanding the genetic basis of the disease and while some of this is in #* obvious other other aspects of this I think we need to consider a bit 
+<Sync time="482.340"/>
+ t- understanding the genetics of the disease gene contributions really helps us understand etiology
+<Sync time="487.576"/>
+ okay but then what can that help us do and I think this is important understanding the etiology of disease helps as determine the classification or the (nosology) of diseases
+<Sync time="496.922"/>
+ and you'll see that today when we talk about (amelogenesis imperfecta) clinically we talk about (AI) but (etiologically) that's due to many different it's many different etiologic forms different (gene mutations) cause that
+<Sync time="510.073"/>
+ and that's important because with that identified you can then diagnose people with specific forms of the disease
+<Sync time="516.69"/>
+ and importantly if you can then group those people together and instead of a one-size-all treatment you can start to to develop treatments that are based on a specific (etiology) of that condition
+<Sync time="527.92"/>
+ and I think that's really critical
+<Sync time="529.517"/>
+ and what we're talking about here is really (personalized healthcare) 
+<Sync time="533.580"/>
+ ultimate goal is to develop a proactive a preventative healthcare system
+<Sync time="538.22"/>
+ but the ability to do that we're still away away from
+<Sync time="541.456"/>
+ and in terms of personalized healthcare I mentioned those big science projects they're really there're findings of last month they really changed how we're gonna go about this I believe 
+<Sync time="552.285"/>
+ now you may or may not be aware that there is over 8000 (inherited human disorders)
+<Sync time="557.01"/>
+ in fact more than 35 100 (mendelian disorders) meaning a single gene can cause them 
+<Sync time="562.395"/>
+30 to 40 percent of them involve some oral dental or craniofacial (phenotype)
+<Sync time="567.348"/>
+and in fact for (genetic defects) and (syndromes) I think the most common manifestation may be (midface) (hypoplasia)
+<Sync time="575.195"/>
+ but some of these diseases affect just the teeth as in AI just (enamel defects) or just the (dentin) others affects just the (gingiva) and then others have more (pleomorphic) effects affecting multiple (tissues)
+<Sync time="588.465"/>
+ and in some cases these are all totally unrelated individuals in some cases they drive development in a profound way
+<Sync time="596.537"/>
+ now this was an important aspect in my early work when I was a (PhD student) there were just the technologies to develop that you can match genes from (mendelian defects) with you know with DNA from family categories
+<Sync time="610.854"/>
+ and it was theoretically possible it was just beginning to to be practically performed 
+<Sync time="616.645"/>
+ now I'm gonna talk about two conditions amelogenesis imperfecta and (dentinogenesis imperfecta) and I'm gonna speak about those and put them in perspective of how genetics helps us understand etiology diagnosis and treatment so that's a theme I wanna develop as I go through the the talk this this afternoon 
+<Sync time="635.340"/>
+ AI as you are aware affects development of the enamel so it's an (abnormal development) of the enamel the underlined dentin is normal but radiographically what's showing here is that the enamel layer (radiopaque) and then it's not shown in these teeth which were affected by AI 
+<Sync time="656.106"/>
+ now clinically AI has been described for many many many years and clinically there's 4 general types and 14 subtypes that consider a number of variables including (pattern of inheritance)
+<Sync time="667.681"/>
+ and I I've always found these are very confusing
+<Sync time="670.962"/>
+ and while you can find certain individuals and it's easy to classify into one of these 4 subtypes clinically it's really it becomes problematic in many many cases
+<Sync time="679.763"/>
+ people just don't fit into any of these
+<Sync time="681.585"/>
+ this is a problem for you know clinical diagnostics and it's not unique to dentistry 
+<Sync time="687.750"/>
+ (germatology) the field of germatology went through has gone through a similar type of thing
+<Sync time="692.623"/>
+ the problem is that clinical diseases were identified and described long before we had the ability to identify the etiologic underpinnings
+<Sync time="700.908"/>
+ so they're imprecise and what's developing now is using incorporating them into genetics to develop better nosologies 
+<Sync time="708.675"/>
+ now the prevalence of AI varies in different parts of the world dramatically
+<Sync time="712.886"/>
+ and as I mentioned it can be inherited in a number of different manners
+<Sync time="717.000"/>
+ it's (x-linked) (autosomal dominant) or (autosomal recessive) (mendelian patterns of inheritance)
+<Sync time="722.827"/>
+@void
+<Sync time="725.941"/>
+ now when you have a disease that's genetic you think there's a genetic basis based on f- on any of your findings for instance
+<Sync time="732.178"/>
+ this is an (ideogram) showing (chromosomes)
+<Sync time="735.155"/>
+ so the challenge is if you have a family (segregating the disease) initially which gene is responsible where is the gene located before we had maps of the (genome) or the ability to (sequence) as we do nowadays
+<Sync time="745.951"/>
+ so what was performed is sometimes called (reverse genetics) and basically the methodology involves gathering families (phenotyping) who is and who is not affected 
+<Sync time="755.445"/>
+and that's critical and sometimes overlooked the importance of that care for phenotyping
+<Sync time="759.469"/>
+ and that's where the role of good clinicians is really critical
+<Sync time="762.66"/>
+ but phenotyping who is not affected extracting DNA and then (genotyping) them 
+<Sync time="769.050"/>
+ no matter what the (genetic markers) you know we've talked about (genetic fingerprinting) and you're seeing all the forensic shows but all genetic fingerprinting was all developed for (gene mapping)
+<Sync time="777.242"/>
+ the forensics usually follows the development of genotyping techniques that have been employed for mapping genes 
+<Sync time="784.950"/>
+ so what's done is y- sequence of (genotyped individuals) for different genetic (polymorphisms) and then try and determine which polymorphism segregates through families with a particular genotype
+<Sync time="796.709"/>
+ and there is mathematical algorithms that you can apply or are applied
+<Sync time="800.386"/>
+ and with that you can use that information to localize the (causative gene) for a disorder to a (chromosomal location)
+<Sync time="806.940"/>
+ you don't need to know anything about the gene involved this technique just allows you to localize the gene
+<Sync time="811.926"/>
+ and nowadays you can just look in and see what genes are in that (genetic interval) 
+<Sync time="817.331"/>
+ you know that's on databases
+<Sync time="819.632"/>
+we focused on databases because we used to have to determine what genes were in the interval
+<Sync time="823.813"/>
+ and then you sequence theoretically sequence through the (candidate genes) until you identify the (genetic alteration) that seems like it would be responsible for the (gene defect) 
+<Sync time="833.400"/>
+ okay so that's the general approach
+<Sync time="835.42"/>
+ and this approach is been used to identify the genes for many of the 35 100 (mendelian conditions) that are reported today 
+<Sync time="844.050"/>
+ for AI these are just some of them there's a few more (recessive forms) that have been identified more recently
+<Sync time="851.273"/>
+ but what you can see here is for instance for (autosomal recessive) (AI mutations) of multiple different genes can cause that disease
+<Sync time="859.056"/>
+ clinically they may have looked the same or overlapping okay 
+<Sync time="863.535"/>
+ but the gene for these are very different the (ENAM gene) is on (chromosome 4) (MMP20) is on (chromosome 11)
+<Sync time="869.79"/>
+ they're totally different genes 
+<Sync time="871.920"/>
+ what that's helping is first of all is to start to establish the nosology
+<Sync time="876.414"/>
+ as I mentioned before there is a parallel of germatologic conditions that look very similar part of the difficulty that was how to describe the d- correct diagnosis
+<Sync time="884.673"/>
+ as the genetic etiology of germatologic conditions wor- was established and this was really over the last 20 years and then treatments were developed based on specific etiologies the diagnosis and treatment of the field advanced dramatically 
+<Sync time="897.606"/>
+and I think that's what we're experiencing or will be experiencing in dentistry 
+<Sync time="901.695"/>
+ a lot of work to be done but that's the direction we're going at
+<Sync time="905.604"/>
+now Jim Simmer is gonna talk about some of these specific mutations and their effects
+<Sync time="911.160"/>
+ I'm gonna talk just an overview about some of the (genotype-phenotype correlations) and what I mean by that is when you identif- well how that how (clinicians) can have a role and the importance of developing this genotype-phenotype correlations
+<Sync time="925.015"/>
+ this slide dates me
+<Sync time="927.696"/>
+ this is important from when I was a dental student I just want to illustrate when I was a dental student without these names of these protei- (proteinases) here this is how I was taught tooth development 
+<Sync time="938.640"/>
+ you know there is not too much specific going on here
+<Sync time="941.775"/>
+ you know that was really you know getting tested on that and I'm trying to think how did they wrote exam questions 
+<Sync time="947.220"/>
+ but wanting to understand the (genetic etiology) we can then identify what the players are and understand the (pathways) that are in normal growth and development and in abnormal growth and development
+<Sync time="958.505"/>
+ very critical
+<Sync time="960.606"/>
+ now for enamel and mutations there are mutations depending on the type of mutation can cause either autosomal recessive AI or autosomal dominant AI so just knowing the gene doesn't tell you actually how the disease is gonna manifest 
+<Sync time="979.189"/>
+ now (enamelin) is the most abundant protein in the (enamel matrix) of developing teeth and I'm going to illustrate here this is a case from families in Turkey with independent families
+<Sync time="992.039"/>
+ we did the (linkage analysis) localized the gene to chromosome 4 did mutation analysis and identified the same (gene mutation) in (probands) affected individuals from different not believed to be related families
+<Sync time="1005.442"/>
+ @void
+<Sync time="1007.113"/>
+ since (2-base pair insertion) you know the (triplet codon) for (DNA coding) would cause a (frameshift) and change the result and protein sometimes creating a a a a premature (stop codon) and that's what happens here so that you have a (truncated protein) that's not functional
+<Sync time="1024.724"/>
+ and what we found in examining individuals and their families you found individuals who had no (copy of the mutation) individuals who carried 1 copy of the mutation for instance the parents were each (carriers) and then affected individuals had 2 copies of the mutation 
+<Sync time="1038.707"/>
+ and these are the 3 3 of the probands from unrelated families from distant well we thought unrelated from different parts of Turkey 
+<Sync time="1045.785"/>
+ so they looked in the sense they had an (skeletal open bite) amelogenesis imperfecta okay 2 copies of the (enamelin mutation) 
+<Sync time="1057.239"/>
+ when we did other studies of (surrounding DNA) it turned out that these individuals were all related distantly related
+<Sync time="1063.709"/>
+ so they had- back in their ancestry all inherited a common mutation from a common ancestor which is a (founder effect)
+<Sync time="1072.333"/>
+ but what we also noted that with some of the individuals but they had (enamel pitting) and we're interested in enamel pitting because in the anthropology literature enamel pitting and- of teeth is relat- is in many cases taken as environmental challenge (insult) fever illness or (dietary restriction)
+<Sync time="1092.005"/>
+ and I think actually what we're seeing here is there's a genetic basis for this independent of those other factors that for some people that would be normal development 
+<Sync time="1100.651"/>
+ so we had this enamel pitting sort of striking enamel pitting 
+<Sync time="1104.975"/>
+ and we look back at our families what we see here these are a (family pedigree) this is showing 2 (carrier individuals) parents this is an affected individual that has 2 copies of that (ENAM mutation) this is a (sibling) with 1 copy of the ENAM mutation these other individuals who have no copies this bars just represent individuals who we phenotype and did a DNA analysis on
+<Sync time="1128.181"/>
+ and what we found here with the individuals with 2 copies of the ENAM mutation had the (full phenotype) if you like
+<Sync time="1134.268"/>
+skeletal open bite amelogenesis imperfecta but the individuals who all carried 1 copy of the mutation all had this enamel pitting 
+<Sync time="1143.510"/>
+ so with this information we've starting to develop a more comprehensive first of all (genotype-phenotype relationship)
+<Sync time="1150.62"/>
+ we have some as- some increased understanding of how this gene may function and we have a dean- (gene dosage) effect
+<Sync time="1157.253"/>
+ where you have 2 copies of the mutation a full-blown phenotype 1 copy of a much milder phenotype 
+<Sync time="1162.41"/>
+@void
+<Sync time="1166.233"/>
+ I wanna also mention that there's the the most common form of autosomal dominant amelogenesis seen in the USA can have a variable expression but it's due to FAM81- (FAM83H) mutations these are some of the mutations you find in Turkish and American families 
+<Sync time="1182.930"/>
+ and the implication here is although we're still don't understand the gene function how this functions it does have implications for genetic testing 
+<Sync time="1192.130"/>
+ I used to practice and work in New York and the state of New York has a policy where there's money reserved to help people pay for (dental genetic conditions) you have a genetic condition AI (DI) of genetical origin there was a reservoir of money to help you and for those who are familiar as a (periodontist) it was an eye-opener to me seeing some of these patients the cost of treating AI or DI can be the order of 20 30000 dollars
+<Sync time="1218.006"/>
+ you know so it's not insignificant
+<Sync time="1219.884"/>
+ I had a case I had a patient came in and he had 2 daughters with AI and I said to him you know Bill how are the girls doing and he said well getting ready they're getting ready to graduate and I said are they going to College and he said no Tom I'm putting their money into getting their teeth fixed rather than sending them to school and I felt as a parent myself that was just a tragic thing to hear
+<Sync time="1242.303"/>
+ so it has real implications but the point I'm trying to make is make is while the money was there previously couldn't prove they had a genetic mutation okay 
+<Sync time="1250.741"/>
+ so you couldn't access the care dollars
+<Sync time="1253.145"/>
+ so there there are some real clinical implications here I don't know how it is in this state
+<Sync time="1258.389"/>
+ now there's other effects for the amelogene- (amelogenin gene) on (chromosome X) you may have a phenomenon called (lyonization) which is (inactivation) of the (X chromosome) and it's a (random inactivation)
+<Sync time="1269.471"/>
+so I've put this here so if you're looking at a f- individual and then getting information about other family members in terms of their teeth and specifically to see if their AI males can be much more severely affected than females who can have inactivation of the chromosome that carries that gene mutation
+<Sync time="1288.04"/>
+so you may see this variable expression even segregating to a family 
+<Sync time="1291.582"/>
+@void
+<Sync time="1294.503"/>
+ now having said that I want to make the point that I touched on earlier is that while clinicians dentists are not necessarily experts in genetics and there's a lot to learn although it's a constantly changing and evolving field you are experts in phenotype and there's a great need for your expertise 
+<Sync time="1310.895"/>
+ I think that when you see conditions that are a little out of the normal you will you will be able to identify them and I encourage you to delve into those a little deeper either work with others you've got your Jim Simmer Jan Hugh here and others who do genetics but you've got individuals who can help you find the mutations involved in these conditions
+<Sync time="1329.516"/>
+but also you can be involved with genetics counselors to help identify that
+<Sync time="1333.643"/>
+but what I'd make the plea for is it you get careful clinical observations and report them
+<Sync time="1339.034"/>
+ can't tell you how important that's been in may career in figuring out the genetic bases and conditions having careful clinical observations
+<Sync time="1346.77"/>
+ I think we went through a period of about 20 years ago for about 10 or 15 years where the emphasis wasn't placed on it it was not placed of such importance and it really is important
+<Sync time="1356.647"/>
+ these are just some of the conditions I've work with over the years and we found gen- alterations in teeth that any dentist would be able to observe and pick up
+<Sync time="1366.906"/>
+ but are not so obvious to our physician colleagues or geneticists on as a whole 
+<Sync time="1374.356"/>
+ now I'm going to speak a little bit of (dentinogenesis imperfecta) and again along our theme of how does the genetics help us understand what's happening
+<Sync time="1383.774"/>
+ now dentin is made up of three primarily organic molecules (dentin sialophosphoprotein) (collagen 1A1) (collagen 1A2) these are coded for on different genes and genetic mutations of any one of these can cause dentinogenesis imperfecta or abnormal development of the dentin
+<Sync time="1406.180"/>
+ now there are a number of classifications of DI DI that have developed over the years
+<Sync time="1411.745"/>
+ and primarily I think as we look now with respect to what genes are involved
+<Sync time="1418.036"/>
+ mutations of dentin sialophosphoprotein dentin sialophosphoprotein gene codes for a protein which is then split into 2 proteins that functions in enamel- in dentin development and mineralization 
+<Sync time="1430.451"/>
+ mutations of this gene cause isolated dentinogenesis imperfecta
+<Sync time="1436.062"/>
+ however mutations of collagen 1A1 and collagen 1A2 which are on 2 different chromosomes can also cause DI
+<Sync time="1443.722"/>
+ they don't have #* 
+<Sync time="1444.935"/>
+ the collagen genes are big there's over 50 (exons) in each of these gens and over 500 mutations different mutations have been reported #* for each of these genes 
+<Sync time="1459.259"/>
+ these the phenotypic findings associated with mutations of these genes can be very variable from a very (mild phenotype) to a very severe in fact a lethal phenotype they can include things like dentinogenesis imperfecta short stature (hearing loss) (blue sclera) (mitral valve prolapse) (aortic) so (cardiovascular) problems bone problems okay (fractures)
+<Sync time="1481.372"/>
+ @void
+<Sync time="1483.250"/>
+ the challenge has been in the past somebody presented with DI did they have isolated DI was it due to dentin sialophosphoprotein mutation or did they have a form of DI that had (syndromic manifestations) and let me show you a case that we had a few years ago with doctor Paulus referred family members with dentinogenesis imperfecta that was a chief complaint
+<Sync time="1508.593"/>
+ we started examining family members we found that some of them who were affected also had (joint hyper-extensibility) bone fractures increased bone fractures and they had severe (joint pain) the people with DI reported this joint pain which I don't think had been reported previously
+<Sync time="1524.693"/>
+ bottom line is we did (genetic linkage studies) and localized the gene in (chromosome 17) so we knew as a collagen 1A1 gene we (sequenced the gene) and found a mutation in exon 32
+<Sync time="1534.706"/>
+ so we had this specific mutation 
+<Sync time="1536.992"/>
+@void
+<Sync time="1540.320"/>
+ and we know that this mutation is associated with dentinogenesis imperfecta some other (clinical findings)
+<Sync time="1546.141"/>
+ okay changes a (glycine) to a (cysteine) okay (nucleotide) #*
+<Sync time="1551.563"/>
+ and now we have a genotype-phenotype correlation if someone else is identified with this type of mutation they they know what the phenotypic findings associated with that for instance they don't need to go through a search of that type of thing and the clinicians can be on the lookout for that
+<Sync time="1568.386"/>
+ but having that genotype-phenotype information is critical and I'm going to illustrate it with this example 
+<Sync time="1573.515"/>
+ there's another mutation of the same (aminoacid) same gene same aminoacid but the next (nucleotide) over glycine changes to an (aspartic acid) the phenotype associated with this is (neonatal lethal) it's very severe
+<Sync time="1588.284"/>
+ and the point I'm trying to make here is although as (high-throughput) (sequencing methodologies) come on board and I'll show you an example in a little bit of where it was applied you can now sequence all the exons in somebody's genomes in about 25 hours get the data back
+<Sync time="1604.955"/>
+ then the challenge is what what's the information telling us
+<Sync time="1609.434"/>
+ you need to have we need to develop more robust databases of phenotypic findings with genetic alterations to be able to interpret these types of findings
+<Sync time="1618.491"/>
+@void 
+<Sync time="1622.850"/>
+ now with dentinogenesis imperfecta specifically with (DSPP) it was possible to sequence in the past collagen 1A1 it cost about 5000 dollars it's less than 1000 dollars now collagen 1A2 you could sequence it was about 5000 dollars significantly less now 
+<Sync time="1638.980"/>
+ and for DSPP it wasn't possible to sequence the whole gene
+<Sync time="1643.318"/>
+ what happens is there's an area of the exon 5 which is highly repetitive and there's 210 (repeats) of (sarin) (sarin aspartic acid) okay very (hydrophilic)
+<Sync time="1655.751"/>
+ and it's a unique biological protein okay
+<Sync time="1660.103"/>
+ and molecularly it just wasn't possible to sequence through this
+<Sync time="1664.048"/>
+ and that was the challenge so what happened is people will sequence the parts of DSPP they could and then if they didn't find a mutation reports were well it's not DSPP it's got to be another gene
+<Sync time="1674.674"/>
+ no it wasn't we just weren't being we weren't sequencing the whole gene
+<Sync time="1677.857"/>
+ so in about 2007 2008 Larry Fisher and Di McKnight were working with us and they developed a technique to sequence through this (highly repetitive region)
+<Sync time="1688.977"/>
+ what we found is for a number of cases and now there's more by now but the majority of cases where we looked at the mutations were actually in this highly repetitive region
+<Sync time="1699.916"/>
+ okay so broadly they were in broad strokes mutations that were inside this highly repetitive region which changed the protein produced protein from a (hydrophilic repeat) to a (hydrophobic repeat) which function very differently (precipitated) out and was (non-functional)
+<Sync time="1716.964"/>
+ so we had sort of two classes of mutations that was important for understanding etiology and I'll show you how that's affected development or the move to develop novel treatments in a second
+<Sync time="1728.571"/>
+ but the other thing that it did is it changed clinical the ability to clinically test for these individuals
+<Sync time="1735.066"/>
+ so now if an individual presented with DI you could go to in sequence all three of these genes and determine what the root cause was
+<Sync time="1744.096"/>
+ if they had DSPP mutations you knew this was probably the only phenotype
+<Sync time="1748.797"/>
+ if they had mutations of these other genes you may want to have a more thorough evaluation of that individual and perhaps other affected family members
+<Sync time="1758.113"/>
+ so clinically I think that was significant for diagnosis and for nosology
+<Sync time="1762.961"/>
+ but something else we found is you know I think sort of in the past we assumed that if it was only DI and no other findings it had to be a (DSPP mutation)
+<Sync time="1772.315"/>
+ and here I'm showing you two cases they're both from large families I haven't shown the pedigree here large autosomal dominant family segregating dentinogenesis imperfecta was the chief complaint
+<Sync time="1782.785"/>
+ we went into these famil- we went in in sequence and found a collagen 1A1 mutation a novel mutation in this family and we found a collagen 1A2 mutation is responsible for DI in this family
+<Sync time="1793.883"/>
+ as we did more thorough analysis we found that actually in this family which is from Brazil I'm sorry this family's from Turkey they had short stature
+<Sync time="1803.495"/>
+ so the affected individuals compared to the (population norms) and even their family norms were a few inches shorter slightly shorter
+<Sync time="1811.255"/>
+ that's the only other phenotypic finding that we found very mild but this is the main finding
+<Sync time="1816.604"/>
+ and in this case they had dentinogenesis imperfecta the only other finding we could find in all affected individuals was this (wormian lambdoidal suture) okay
+<Sync time="1826.06"/>
+ #*Ed and I we were doing a lot of phenotyping so you wouldn't normally perhaps have the opportunity to do this but my point is that individuals with DI can have mild cases and not show other features
+<Sync time="1837.228"/>
+ and there have been cases of individu- in families with DI due to collagen mutations where it's variable (expressions) so one individual the main finding may be DI and in not much in terms of vascular or bone findings but in other family members that have the mutation they have more significant in fact with real health consequences apart from dental for their vasculature or bone findings
+<Sync time="1860.933"/>
+ so again I think the clinical significance isn't just developing a diagnosis in nojob- nosology but as I mentioned before certain individuals can have access to care and in medicine in general I know reimbursement patterns are different but if you have genetic diseases you're covered and now it's more you can't be discriminated against but we need to come forward with the dental aspects of these types of traits because as we'll see they're not insignificant
+<Sync time="1885.813"/>
+@void
+<Sync time="1888.431"/>
+ now I want to mention a little bit about how understanding the etiology can help advance development of novel etiologic based treatments
+<Sync time="1896.031"/>
+ as another part of my research we have identified genes involved in certain (kidney diseases) and in fact we found genes that causes a type of kidney disease whereas a protein was made that for that destroyed cells with the (ascending loop of Henle)
+<Sync time="1909.823"/>
+ so basically this mutant protein destroyed the kidneys over time end stage renal disease and death if you didn't have a transplant
+<Sync time="1915.984"/>
+ but we also found out is that mutation caused it what we call an (endoplasmic reticulum store disease) the (mutant protein) got clogged up in the (endoplasmic reticulum) and killed the cell
+<Sync time="1926.591"/>
+ we're able to also use (molecular chaperones) to move that mutant protein out of the cell and prevent (cell death)
+<Sync time="1933.695"/>
+ so we thought gee could there be correlations with certain dental diseases
+<Sync time="1937.449"/>
+ and in fact there are
+<Sync time="1939.089"/>
+ so this is a case for dentinogenesis imperfecta and what I want to show you here could we dim the lights a little bit please
+<Sync time="1945.213"/>
+ is it possible
+<Sync time="1946.507"/>
+ no okay
+<Sync time="1948.672"/>
+ what I want to try and show here is so we have individuals I showed you before the the DSPP gene so I'm not talking about that repetitive region of exon 5
+<Sync time="1958.626"/>
+ but in in earlier exons 1 and 2 particularly 2 there are a number of mutations
+<Sync time="1965.476"/>
+ and these cause problems in (protein folding) and (transport of the protein)
+<Sync time="1971.154"/>
+ so what we have here normally DSPP is produced in a cell and this shows a cell #DSPP is produced and this is (stained with an antibody)
+<Sync time="1980.036"/>
+ this is an antibody standing for the (endoplasmic reticulum organelle) in the in the cells
+<Sync time="1985.623"/>
+ this is an overlay and you can see the (endoplasmic reticulum) and you can see the DSPP being produced by the cell
+<Sync time="1992.975"/>
+ and it's (excreted) we could detect this in the medium around in the (cell culture)
+<Sync time="1997.818"/>
+ this is cells that have one of the mutations from DSPP
+<Sync time="2001.625"/>
+ you see the DSPP is produced but it's retained in the endoplasmic reticulum and here all the DSPP is in the endoplasmic reticulum you don't see it expressed outside the cell
+<Sync time="2013.332"/>
+ and what we're able to do with this (4-phenolbutyrate) and also we used (colchicine) so there's a number of molecular chaperones we're able to treat these mutant cell with these (chemical chaperones) and actually get the (mutant protein) to be excreted out okay
+<Sync time="2029.25"/>
+ and that's what we show here we show different mutations
+<Sync time="2032.502"/>
+ these are different mutations of the DSPP gene this is an (empty vector) this is a (wild-type) the cell with a wild-type DSPP
+<Sync time="2041.18"/>
+ and you can see the DSPP is secreted versus in these mutants much less and in fact some cases no DSPP is secreted
+<Sync time="2048.108"/>
+ when we treat them with this molecular chaperone we can get the mutated protein secreted out and in other studies we're able to demonstrate we in fact increase the longevity of the cells okay so the cells instead of going through (apoptosis) and dying we're able to keep them healthy and functional
+<Sync time="2065.234"/>
+ so what I want to point out is to understanding the molecular defect you can open up the caveat it perhaps novel developmental treatments but it's not a one-size-fits-all
+<Sync time="2075.312"/>
+ and in (cancer genetics) the cancer genetics has been applied to (companion testing) and you may or may not know but for certain specific types of cancer particular (epithelial) types of cancer (solid tumors) based on the genetic mutation you can be tested and if you have that mutation you can have very very very high success rates for treatments
+<Sync time="2095.63"/>
+ it's amazing so again the treatment doesn't work for for certain types of cancers it doesn't work for say (colon cancer) won't work for everybody with colon cancer but with certain types of cancer based on the genetic etiology you can have specific treatments that are very very successful
+<Sync time="2112.209"/>
+ I think it's a real paradigm for health care in general
+<Sync time="2114.684"/>
+ @garbage-until-the-end  
+<Sync time="2115.870"/>
+ now and talking about this is going to think type part of the torque was the future we getting genetic information mention 
+<Sync time="2127.615"/>
+ a thousand conditions and daily the genes involved my daily entire conditions are identified how we can use this information metal first cementum torque on a pass with talk really preaching centric type genetic analysis 
+<Sync time="2145.435"/>
+ as result some pick science products mention or more that genomic the real genomic genetic determines phenotype so it's not just rotations according reasons genes cause disease and in fact 
+<Sync time="2161.530"/>
+ beg to is that only about two percent of their genome codes for genes code for proteins 
+<Sync time="2168.910"/>
+ the rest of a my track was called a as a term about carry lot of course 
+<Sync time="2177.280"/>
+ Energy thing so was and we just didn't understand how function now really understand feel how functioning much more big sides products mention percent of that gene and there was percent previously for a relatively 
+<Sync time="2192.190"/>
+ narrow like be critical and clear role and regulated express an additional a large percentages majority that express or 
+<Sync time="2203.380"/>
+ so that central talk mention DNA goes on a protein perhaps majority cases except to the role 
+<Sync time="2212.845"/>
+ most cases this is are which functions and understanding that can be the base for understanding to really pat- ways development of normal and normal health and disease and it's a number of regulatory regions 
+<Sync time="2229.375"/>
+ promising structure regulatory regions and other types of are a link or came out temporary anchor project there are thousands 
+<Sync time="2240.120"/>
+ and they're link change a regular pat- ways development and we know about that before incorporating know information understanding can make I think a large difference 
+<Sync time="2251.845"/>
+ to consider in terms of genetics and healthcare public ramifications public health ramifications of genetics of healthcare 
+<Sync time="2261.505"/>
+ and to that we consider relative contribution genetic factors and genetic contribution to disease can be large or can small 
+<Sync time="2271.665"/>
+ much as talk a little bit think about this for second talk about a topic variations 
+<Sync time="2278.290"/>
+ partially phenotype occurs and the base came a condition is the result the interaction about individuals genes with other genes that they had their genetic makeup and they're makeup with the environment 
+<Sync time="2292.105"/>
+ now many many many studies she was studies sequence studies have actually evaluated height and make sense as high pretty preaching phenotype get measured fairly actually pretty are currently quickly lower cost 
+<Sync time="2307.435"/>
+ so project watch that dealing with high perhaps phenotype 
+<Sync time="2314.725"/>
+ now we have individuals in this room not generally _hundred_ people line individuals up according to there height 
+<Sync time="2324.415"/>
+ online reporting the high pretty much that a normal distribution a distribution average probably about six six dentures number people gradual shorter number people tall go out multiple standard radiation arising from over for for a lower under seven 
+<Sync time="2344.320"/>
+ assay an more studies but this is the genetic variations talk about six that here on the tales most around the real 
+<Sync time="2355.495"/>
+ believe that they're about _twenty_ low Simon contribute the high and determine in high we're all at so 
+<Sync time="2363.760"/>
+ transosteal factors probiotic significant they were historically 
+<Sync time="2370.270"/>
+ and internal extraction of high but now resulting is basic science project yes all for hi presence 
+<Sync time="2379.720"/>
+ to _twenty_ it's _hundred_ that five hundred _two_ _thousand_ site introduce each contribute very small amount to the total phenotype 
+<Sync time="2390.895"/>
+ and this is a parrot I for complex disease is that many many more genes contribute to them then we for 
+<Sync time="2398.155"/>
+ this so for compared and I think we can look at this is chronic periodontitis and then in second we look at maintainer forms disease patterns ever syndrome 
+<Sync time="2410.005"/>
+ that look at a larger population sample say City Chicago a report that individuals within the population outside of a distribution some really train something very short with polymorphism of different types of some of different forms child is so you real training very rare but this case cause rotations genes 
+<Sync time="2433.405"/>
+ so a single rotation of a role fact receptor presentation rotation airway cholera plastic or really what you your other genetic complement that one rotation authorized all development pat- where arts high 
+<Sync time="2451.045"/>
+ several for diet so we had this paradigm I think it's holding looks like for disease as well you think about disease and contribution change thing there's the most common form a change diseases a population many many 
+<Sync time="2467.505"/>
+ each of small affect but there are rare for disease which many daily types trays daily traits can help identify what prayers are developmental pat- ways 
+<Sync time="2481.210"/>
+ thought classification of diseases and the micro on a number different metal a number different mechanisms but to say globally there can look at say three forms genetic disorders single gene disorders I discussed were rotation of a single is really determine is that the phenotype promising disorders and complex genetic diseases 
+<Sync time="2506.170"/>
+ just illustrated those a little bit vertically the crosses on disorders may or may not be aware of so development with those three mentioned 
+<Sync time="2514.750"/>
+ signature disorders I fundamentally and patterns of a hiatus and they were flattened determines fact of the technology rotation on the development of those tissues 
+<Sync time="2527.215"/>
+ simple traits there on common and terms frequency population level of a very common Family percent of individuals can effect 
+<Sync time="2537.625"/>
+ from some disorders most of genetics are familiar with the trial and it tries _twenty-one_ syndrome tries to try and _thirteen_ somewhat less compared with life also model some tartar syndrome X so 
+<Sync time="2553.510"/>
+ but there's actually we look at now we're able sequence DNA on a much more refine matter 
+<Sync time="2560.020"/>
+ mention a thousand conditions there are hundreds hundreds and hundreds at genetic condition contiguous centrals 
+<Sync time="2571.015"/>
+ inserted to the locations duplication of contiguous regions okay and fact rabbit really inter chromosomal a much more fine matter 
+<Sync time="2583.690"/>
+ have from some anomaly okay the question is what the phenotype affect about chromosomal deviation have to chromosomal say from your father from southern inherit say for 
+<Sync time="2597.730"/>
+ _twenty_ attention which is normally recession rotation for I had iterations orderly had one cause rotations that matter fur sometimes iterations on copper recession conditions okay variations or locations that alter metal relation patterns affect development but the pointer here as were able to introduce is another study identifying individuals over latin rate chromosomal changes 
+<Sync time="2626.245"/>
+ and you get variable clinical find depending on the genes involved which cancer related which two located 
+<Sync time="2636.265"/>
+ try to show hares historically we done sequence saying assessment many hours analyses that like this going to really virtue manual 
+<Sync time="2649.255"/>
+ now high put methodologies meta analyses able to identify copies barrier solutions _two_ locations a much more refine much a matter 
+<Sync time="2661.420"/>
+ being found is that there's have some from so there's quite expensive away chromosomal locations _two_ locations and versus which fact restorations insertion and transferred patients and as genetics that caused doing genetics increases and end of have the type of information gonna say what's the consequent and again that's remember we need to really start not staff continue 
+<Sync time="2689.825"/>
+ a type populations people have this genetic information we can determine what means stress a parrot these are two cases I've the last years that had chromosomal changes their presented the editor-in-chief of Overgrowth 
+<Sync time="2705.685"/>
+ Overgrowth with anomaly eruption but performed genetic analysis was able to determine not the wrong proteins 
+<Sync time="2714.505"/>
+ proteins produced by these individuals terms structure early and one case channel Ram protein produced for time the mouth should normally and gingiva another they produce have efficient that produce about _fifty_ 
+<Sync time="2730.630"/>
+ percent of the normal now so this is what becoming impact reports in the future think that in a great and brief mention complex genetic disorders retro are the most common health problems okay thing 
+<Sync time="2746.650"/>
+ response things I can't ask you guys a big City in dentistry we can take a chronic tied caries 
+<Sync time="2755.005"/>
+ multiple genes environment fact important thing is realize complex diseases that hundreds of thousands and genes are gonna be involved and contribution the maxil- contribution for placement these complex trays 
+<Sync time="2772.450"/>
+ or of about point _five_ percent maxil- contribution of a locus understand understand more than currently understanding one genetic 
+<Sync time="2783.175"/>
+ separate since for sinus complex diseases just as help clinically at this point time 
+<Sync time="2789.385"/>
+ I mentioned then code on the just how that change understanding encourage hold up the code our third according paper last mouth and it's amazing really changing understanding corporation that that was another project as early 
+<Sync time="2806.065"/>
+ change rod complex diseases in that many many many working with for affect for so last three minutes I just want a finish up by talking about how thinking about genetics and public health talk about diagnostics etiology but in terms of interventions stratified 
+<Sync time="2823.525"/>
+ mention many conditions and the germs for these starting to be identified okay how we can use this information 
+<Sync time="2831.475"/>
+ the purpose perspective I put out this was lastly proper sized ventilation metal shell on in intensive care where significant number of addition genetic diseases of cause 
+<Sync time="2845.320"/>
+ there are five case were babies broad 
+<Sync time="2849.655"/>
+ what they had their genomes were sequence and _twenty-five_ hours read another _twenty-five_ hours a case of _fifty_ our to take that a sequence their genome analyses causes about _thirteen_ father our for child across a continuum going as a rush 
+<Sync time="2868.210"/>
+ and they're able to identify genetic basis of _four_ _five_ conditions okay so this is really coming the Precious are coming here forces on your nail and care but 
+<Sync time="2880.075"/>
+ start provide healthcare and dentistry thing so effect back to that genome for project assess for the genetic component identify the genes can the mouth by variety methods link to Association these types of things 
+<Sync time="2896.110"/>
+ we can use is develop diagnostics to develop that classification systems' and understanding classification system diagnostics used to really developing as algae the canal of the basis for developing interventions okay on going into the different true there's a variety of them smaller molecules turn of 
+<Sync time="2916.900"/>
+ replacement therapies therapies behavioral canal therapies be important to start by the future then conditions on one sides look at healthcare and and the health condition public health for familiar infection 
+<Sync time="2934.435"/>
+ as cause more significant mortality and 
+<Sync time="2939.010"/>
+ where this my mother separate from paleo and York a child saying how really clarifying thing for them parallel for awhile but so different case this is over the years prevalence have some of somebody viral conditions 
+<Sync time="2954.280"/>
+ and can see how by _ninety-nine_ for vertically eliminate on us tremendous public health success or based on understand biology and developing 
+<Sync time="2966.205"/>
+ stratified to prevent infection say matter first take you example role from remember that nature they're aids was first occurring know that caused have treatments we really look at surgery interventions cross 
+<Sync time="2985.480"/>
+ other type lesions in the oral cavity and elsewhere 
+<Sync time="2989.935"/>
+ as we understood the nature they're infected agent I first patients coming protease inhibitors and thinking Boyd health 
+<Sync time="2998.995"/>
+ so set before now carefully that so understanding cause a led secondary prevention McCauley primary prevention preventing being infected or think about genetic think public health perspective okay less pocket maintainer a and trays 
+<Sync time="3016.170"/>
+ assess the advantage there is a identify take separation identify what medication is now but right now really between terms are still temporary prevention genetic diseases later on not not in person prevention 
+<Sync time="3032.205"/>
+ but when to move towards understanding basis biological pat- general talk about three and development as based on that secondary prevention a primary prevention those maybe ways by understanding are a regular mechanisms of terms of express 
+<Sync time="3049.305"/>
+ that I think matter first normal develop 
+<Sync time="3054.045"/>
+ think about complex diseases now the reason understanding then code on other project require more understanding okay I think that so we understand African and they have such fact canal by the change and they're interaction 
+<Sync time="3073.335"/>
+ modifiers over come they're affecting but effect so small so many genes parrot a involve much deeper understanding of helping development be able to bring public health 
+<Sync time="3086.340"/>
+ prevention and treatment to complex diseases 
+<Sync time="3091.440"/>
+ I wanted thanks are via colleagues can work done without what break collaborating and somebody individuals 
+<Sync time="3101.385"/>
+ incisal Boston and internal know care line and real participate one for their support over the years 
+<Sync time="3127.194"/>
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="auto" audio_filename="Personalized_Oral_Health_and_Dentistry.wav" version="2" version_date="210301">
+<Episode>
+<Section type="report" startTime="0" endTime="3433.860">
+<Turn startTime="0" endTime="3433.860">
+<Sync time="0.000"/>
+@void
+<Sync time="3.836"/>
+ #* introduce our second speaker doctor William Giannobile who is the William K and Mary Anne Najjar Endowed Professor of Dentistry and Biomedical Engineering 
+<Sync time="13.875"/>
+ Will is also Director of the Michigan Center for Oral Health Research and recently has been appointed Chair of the Department of Oral Medicine Periodontics and Oral Medicine at the School of Dentistry succeeding Laurie McCauley
+<Sync time="28.171"/>
+ Will received his (DDS) degree from the University of Missouri and later he received a certificate in (periodontology) and earned the (Doctor of Medical Science) degree in Oral Biology from Harvard University 
+<Sync time="40.395"/>
+ he subsequently completed (postdoctoral training) in (molecular biology) at the Dana-Farber Cancer Center and the Harvard Medical School where he went on to serve as a (faculty member) 
+<Sync time="54.360"/>
+ doctor Giannobile joined the University of Michigan in 1998 as an (assistant professor) and in 2003 became the first Director of the Michigan Center for Oral Health Research 
+<Sync time="64.890"/>
+ in 2006 he completed a (sabbatical) as a (visiting professor) at the Biotechnology Institute of Regenerative Medicine at the University of Genova Medical School in Genoa Italy 
+<Sync time="75.885"/>
+ doctor Giannobile has lectured extensively in the area of (periodontal regeneration) medicine and (tissue engineering)
+<Sync time="83.506"/>
+ he currently #serves as (editor-in-chief) of the Journal of Dental Research 
+<Sync time="87.765"/>
+ he is also consultant to to the US Food and Drug Administration for (dental devices)
+<Sync time="93.284"/>
+ in 2010 doctor Giannobile received the Distinguished Scientist Award from American Academy Periodontology for his research contributions in this field 
+<Sync time="102.945"/>
+ today doctor Giannobile will talk about personalized medicine and dentistry (salivary diagnostics) what is on horizon what are the potentials for the practicing doctors
+<Sync time="113.218"/>
+doctor Giannobile
+<Sync time="114.471"/>
+ @void
+<Sync time="116.079"/>
+ okay so thank you Dean Polverini and I'd also like to thank Laurie McCauley for the organisation of this session today
+<Sync time="125.298"/>
+ I'm going looking forward to our our discussions that we're going to have later and I've very much appreciated doctor Hassel's presentation giving a big picture to you on the world of personalised medicine as it may affect all areas of (healthcare)
+<Sync time="143.024"/>
+ and so my challenge this afternoon is to now put into perspective some of the opportunities that we have in (dentistry) notably in the areas of (dental caries) (periodontal diseases) and (oral cancer) as examples where we may be able to now start using personalized (oral healthcare) or personalized dentistry for the better healthcare delivery for our patients 
+<Sync time="171.585"/>
+ genetics what can that mean the ability to perfect the physical and mental characteristics of every unborn child 
+<Sync time="178.606"/>
+ #*
+<Sync time="190.388"/>
+ in a not too distant future 
+<Sync time="194.569"/>
+ our (DNA) will determine everything about us 
+<Sync time="199.420"/>
+ a minute drop of blood 
+<Sync time="203.413"/>
+ saliva or single hair 
+<Sync time="208.160"/>
+ determines where you can work 
+<Sync time="211.996"/>
+ who you should marry 
+<Sync time="215.298"/>
+ what you're capable of achieving
+<Sync time="218.079"/>
+ @music
+<Sync time="223.064"/>
+ okay so this is a movie clip from Gattaca and many of us might think that this is actually pretty far-fetched 
+<Sync time="231.420"/>
+ but actually much of the technology that was utilized in the premise of this movie is actually available today
+<Sync time="240.185"/>
+ and it's really a matter of how we're going to use this genetic information for (genetics) and (genomics) research and the application of really using it in a in a proper manner and so
+<Sync time="253.254"/>
+ as a part of the presentation today later on doctor Roberts is really gonna put much of this into the the clinical context 
+<Sync time="262.440"/>
+ but as we start to now begin to consider many of the opportunities within personalized dentistry and personalized healthcare
+<Sync time="271.332"/>
+ I think I can relate to many areas that we have currently ongoing in dentistry and in oral health research 
+<Sync time="278.700"/>
+ this isn't even just at the patient level but can also relate to the the response to (microbial infection)
+<Sync time="288.562"/>
+ if we take for example in (periodontal diseases) and (dental caries)
+<Sync time="293.057"/>
+ using (molecular diagnostic) approaches in identifying different types of (pathogens) that are (afflicting) our patients and seeing how that (host) (parasite) interaction actually occurs 
+<Sync time="307.905"/>
+ also in the development of rapid (point-of-care) (diagnostic tests) we are going to have many opportunities not only working with centralized laboratories like what doctor Hassel just recently presented 
+<Sync time="323.340"/>
+ but in the future we are now beginning to have rapid point-of-care (diagnostics)where we might even have (devices) the size of this (pointer) here we're going to be able to deliver some sort of biological (specimen) and then have an analysis of our (genomes)
+<Sync time="343.991"/>
+ so you know how can we actually start using these approaches because in dentistry you know we've been using a form of personalized medicine for many years right
+<Sync time="354.975"/>
+ we treat each patient differently it's not necessarily one-size-fits-all 
+<Sync time="360.735"/>
+ however when it comes to many of the different tools that we have in our (armamentarium) (restorative) (biomaterials) (antibiotics) (pain medications) often times we do use them in a very standardized manner 
+<Sync time="375.555"/>
+ and so if we take one example such as in a case of
+<Sync time="380.116"/>
+ this was actually the development of a of a new (tissue engineering) (construct) part of a (randomized control trial) done here at the University of Michigan
+<Sync time="390.118"/>
+ this is an example of a patient who had a very severe (osseous defect) around a (single tooth)
+<Sync time="396.703"/>
+ and this patient received a treatment that was highly successful 
+<Sync time="401.160"/>
+ and this is a 10 year (post-operative) image following this treatment
+<Sync time="407.516"/>
+ but this another patient in the same (clinical trial) received the same (tissue engineering construct) and you can see at (baseline) and then you can see at the 6 month (post-operative) view that this patient went the opposite direction 
+<Sync time="425.925"/>
+ and so how do we actually identify these patients who are going to respond well and those who may not respond quite so well 
+<Sync time="434.805"/>
+ so this is actually some other data from this this (multi-center clinical trial) and it shows a distribution as we would examine of the patients maybe in our (practice) or the practices we're planning on going into where we really get differential responses to (therapies)
+<Sync time="453.202"/>
+ so this is essentially a graphic that displays the proportion of patients okay so going up to a 100 percent of the patients versus the percent (osseous defect) (fill) for this (regenerative treatment) 
+<Sync time="466.905"/>
+ and so what you can see either using a (standard of care) or two different (bone grafting) (biomaterials)
+<Sync time="473.917"/>
+ there was more (predictability) if you will in this green group in terms of more of the patients showing better (regeneration)
+<Sync time="484.064"/>
+ however there is a (subset) of patients at the very bottom where these patients didn't have any you know the result was really negative whereas you can also see in the (control) there was a large group of patients that performed very well 
+<Sync time="498.105"/>
+ so you know why do these patients respond differently
+<Sync time="502.292"/>
+ what what are some of the reasons for this and is there a way for us to (customize) our treatments that we deliver 
+<Sync time="509.340"/>
+ and so so much in dentistry because we do tend to follow the (surgical model) of (healthcare delivery) we will either blame the patient in their (compliance) or we will blame you know the (practitioner) they don't have the hands that I have in terms of actually delivering this care
+<Sync time="528.815"/>
+ and certainly these are factors (compliance) are going to modulate a great deal the clinician (skill) is going to have a big role
+<Sync time="537.842"/>
+ it might have been the targeting of the (drug) or (device) within that particular (defect) or much of it might be based on the patient's inherent ability to respond to this particular treatment
+<Sync time="549.919"/>
+ and so some patients may have a much better response than his doctor has we're showing some patients are just incapable of responding to a specific drug because they don't (express the receptor) to enable them to have a robust response to that drug 
+<Sync time="566.340"/>
+ so a large part of what I will be discussing this afternoon is is on (saliva diagnostic testing)
+<Sync time="574.386"/>
+ on how we might be able to now start using these (rapid diagnostics) for the identification of (disease) 
+<Sync time="582.855"/>
+ we might be able to get a better handle on clinical response identifying risk that will then affect our (prognosis)
+<Sync time="591.964"/>
+ you know part of our initial exam developing a diagnosis and then developing a prognosis to say in the (treatment planning) how is this patient going to respond 
+<Sync time="602.895"/>
+ also we can look at (susceptibility) and this becomes very challenging because it does intersect with (environmental) and compliance related aspects
+<Sync time="614.25"/>
+ this could be patients who may have a specific (genetic profile) but they're infected with other types of (pathogens) that gonna put them at greater risk for disease 
+<Sync time="624.375"/>
+ and then also looking at the different drug targets doctor Hassel has given some examples 
+<Sync time="631.170"/>
+ so this particular topic oftentimes when you hear a presentation about diagnostics you know how how are we actually going to use these diagnostic tests in our practices
+<Sync time="644.708"/>
+ and so it becomes very difficult because in general in dentistry we don't have very orderly (protocols) that are standardized for us to deliver care
+<Sync time="656.77"/>
+ and so how is this going to help me deliver better care to the patient and so you know one very broad concept on how these tests can be used could be from a simple public health standpoint where we are able to identify those patients at highest risk 
+<Sync time="673.215"/>
+ and do massive (screening) and then help bring those patients to the clinic for them to get a more in-depth evaluation
+<Sync time="682.112"/>
+ example in (oral pathology) could be the screening and identification of salivary (IL) 8 that might predispose these patients to (squamous cell carcinoma)
+<Sync time="693.224"/>
+ and then they need to go to the (oral pathologist) for an exam and then maybe eventually a (biopsy) that is evaluated to really determine is that a true local you know (oral cancer) 
+<Sync time="705.720"/>
+ so these technologies I'm gonna give you some examples now but you know this intercess- intersection between dentistry and engineering and the (life sciences) there are many different platforms for disease detection that are quite of that are becoming available 
+<Sync time="723.720"/>
+ and this was actually a report on the use of potentially the use of an iPad or and iPhone that you can actually drop saliva on to this device as a (pseudo-lab-on-a-chip device)
+<Sync time="736.725"/>
+ for the (capacitance) of that saliva that drops onto the these touch screens can actually then identify the capacitance of different types of (microbial species) so it could actually differentiate the quantity of (microbes) 
+<Sync time="755.835"/>
+ it's it's very early stage I don't think we're gonna be using it you know in spitting on our screens anytime soon but we're gonna have devices that can do multiple functions
+<Sync time="768.508"/>
+ so as was just mentioned in the previous talk about you know the cautionary tales of some of this the (genetic testing)
+<Sync time="778.769"/>
+ actually when doctor McCauley asked me to give this presentation I've been aware of this technology and actually just for fun I decided to have my (genome) evaluated using this saliva test which actually has now gone through several (iterations)
+<Sync time="797.118"/>
+ and this is basically a very easy to use (genetic test) that you know the disclaimer on this is that it's only for research purposes it is not connected to anything that a (healthcare practitioner) is using currently
+<Sync time="813.884"/>
+ however I gotta I must say when I got the results back I mean I did have a little bit of a drop in my blood pressure just waiting to see what was going to come out from this 
+<Sync time="824.610"/>
+ but as such it's a very easy to use (test kit) where you log on to this online then you receive a (sample test kit) 
+<Sync time="835.440"/>
+ you you provide about 2 (mls) of saliva there're some different (protease inhibitors) that are put into this concoction it's mailed off and then you get the results in about 6 to 8 weeks 
+<Sync time="849.345"/>
+ so these these tests are being used actually quite often this was from the New York Times a couple of years ago where they were having a saliva party 
+<Sync time="859.275"/>
+ and these are people with in the background sipping champagne and having a wine and cheese tasting and then spitting over in the other side giving up their saliva that then they were going to get their genomes evaluated 
+<Sync time="874.770"/>
+ so when I received the results actually it comes back and there is a component of it in terms of ancestral painting and it looks at the (haplogroups) of both your mother and your father
+<Sync time="887.305"/>
+ and you know my mother was primarily Irish and my father from southern Italy area and so there was you know these these test kit sort of really provide very general identification of regions such as Europe Africa and Asia 
+<Sync time="907.140"/>
+ and so at least I was the composition of me was what I thought it was but you never know 
+<Sync time="915.916"/>
+ and then then it starts to have this report that comes out that identifies multiple (genes) multiple (risk factors) for a variety of diseases
+<Sync time="928.629"/>
+ and doctor Roberts he's gonna go into some of this interpretation and that's what much of the caution is of these specific results
+<Sync time="938.674"/>
+ and so this is an example of some areas that I was at (decreased risk) for and much of this in terms of confidence so for the students learning about (evidence-based dentistry) (evidence-based medicine) 
+<Sync time="952.575"/>
+ this does in its own way look at a hierarchy of evidence in terms of (multiple randomized controlled trials) (meta-analyses) or very large (clinical studies) being a higher confidence for a an end-point 
+<Sync time="969.000"/>
+ whereas then they also do all kinds of other exploratory and earlier stage less confident results 
+<Sync time="977.640"/>
+ and so it's for those students in my (lab) it says I'm at decreased risk for (Alzheimer's) if you're wondering 
+<Sync time="985.860"/>
+ and then it has then it goes into several other areas that have much less confidence
+<Sync time="993.012"/>
+ and I think this is in terms of the education piece you know there are reports that come back for other diseases that there might be a concern so for example longevity 
+<Sync time="1004.115"/>
+ it tells me to see a report because it's telling me I'm actually probably not gonna be a centurion 
+<Sync time="1010.650"/>
+ you know I'm there are a variety of different risk factors
+<Sync time="1014.454"/>
+ but I if we just take one for (tooth development) for example what is nice is that there are links then to the references that are then related to this particular (gene) and so in this case this is a (single nucleotide polymorphism) that is associated with t- with either (supernumerary teeth) or (missing teeth)
+<Sync time="1040.322"/>
+ and so this is just an example based on a very large study and you can even link to this (open access article) that shows that there were just over 8000 patients and they had looked at the risk of having (supernumerary teeth) or not
+<Sync time="1056.169"/>
+ in this particular case I was going to based on my profile I was only going I was gonna have a normal number of teeth
+<Sync time="1064.615"/>
+ so these these technologies have some value in terms of what is available out there 
+<Sync time="1071.510"/>
+ but obviously they're going to be a lot of ramifications on how they're used later in practice 
+<Sync time="1077.345"/>
+ okay so as we think about now just some some of the most common examples where saliva diagnostics have been used in dentistry
+<Sync time="1086.106"/>
+ these are that three areas (periodontal disease) (oral cancer) and (dental caries)
+<Sync time="1091.201"/>
+ however I don't mean to be limiting in that it is really being applied to all areas of (dentistry) and these were just some of the lower hanging fruit that have been evaluated in several different situations so 
+<Sync time="1105.605"/>
+ if we think about in terms of (periodontal disease) evaluation in terms of a (chronic disease) if used it as a chronic disease model itself there are several junction points where diagnostic testing can be quite valuable 
+<Sync time="1122.390"/>
+ at the early stage in the genetic evaluation just like what I showed you there may be genetic test for disease that come out 
+<Sync time="1130.235"/>
+ it doesn't really address the (epigenetic) changes Eric had a really great question because chronic diseases are very susceptible to epigenetic changes that are really going to affect the (phenotype) 
+<Sync time="1142.400"/>
+ and then we have the biological (onset) of the disease this might be at the microscopic level it's (sub-clinical)
+<Sync time="1149.048"/>
+ and you know how can we identify that very early (carious lesion) or the initiation of periodontal disease 
+<Sync time="1157.280"/>
+ our (detection tests) we hope are very close to the (biological onset) but not always so sometimes they're more closer to the actual clinical measures the (radiograph) the increased (pocket depth) the (bleeding) these sorts of (overt signs) 
+<Sync time="1175.715"/>
+ and so what we wanna do is develop tests that don't just corroborate what we already see clinically but might help us screen patients more rapidly
+<Sync time="1184.693"/>
+ and so this then leads into the development of more rapid point-of-care diagnostics where we can move beyond the conventional methods that we've used before that are very important for validation 
+<Sync time="1199.100"/>
+ but now starting to exploit many of the different (molecular) techniques that will help us do a very rapid assessment that may be able to be done at the (chair side) 
+<Sync time="1210.350"/>
+ to identify those patients at risk for disease and give us more of a real time assessment of what's going on and this is where many of the (protein biomarkers) have been used 
+<Sync time="1221.990"/>
+ so they can be used in in you know in (periodontal practices) I mentioned (screening) (monitoring) (dental hygienists) in terms of (supportive periodontal therapy) visits identifying those patients that are undergoing (disease progression) 
+<Sync time="1236.780"/>
+ identification of teeth that are at high risk for future progression and maybe you remove this (pier abutment) tooth for this (bridge) because it doesn't have a good prognosis and then lastly diagnosis of very specific diseases 
+<Sync time="1253.865"/>
+ so one of the things that we have an opportunity to do is within (periodontics) of the localized (periodontal lesion) we know that (plaque biofilms) elicit a (host immune response) and then there's a whole cascade of events in response to that (microbial colonization)
+<Sync time="1276.796"/>
+ and it depends on the patient in terms of the (release) of different tissue destructive molecules associated with (disease progression) 
+<Sync time="1286.175"/>
+ and so you know there's been a lot of work done in the saliva area in terms of identifying many of these (mediators) that are released from the saliva many of them very large (molecular weight) molecules other of them smaller molecules that may or may not be associated with disease
+<Sync time="1306.583"/>
+ and so I'll show you one example that the research team at MCOHR the Michigan Center for Oral Health Research has been involved with a collaboration with the Department of Energy group Sandia National Labs and MCOHR
+<Sync time="1324.166"/>
+ and this is really working in the development of a (handheld) diagnostic that could be used to put in a couple of drops of saliva to then give an output of a (rapid diagnosis) in a matter of minutes versus what I call the brute force method in the lab that might take a day or two or sometimes longer 
+<Sync time="1348.035"/>
+ so this is an example in terms of a proof-of-principle
+<Sync time="1352.659"/>
+ where we essentially took we examined one specific (mediator of disease) (Matrix Metalloproteinase) released from (neutrophils) connected with (periodontal disease)
+<Sync time="1365.762"/>
+ and we took a group of healthy (dental hygienists) and than we took a group of diseased patients then looked at the use of this prototype diagnostic to predict disease 
+<Sync time="1377.720"/>
+ and so this is the internal workings of the device and so it basically has an a (sample collection) area a (filtration) of the large (molecular weight) proteins and then a very small volume of saliva will will traverse this device and then in a matter of 4 to 10 minutes getting an output in terms of the level of a specific (biomarker)
+<Sync time="1402.77"/>
+ so it is a (handheld device) it's it's fairly large of minutes it's got 8 different (double A batteries) and as it's not quite as small as this but it still could be at the (chair side) 
+<Sync time="1416.435"/>
+ so this is an example of of (fluorescein-labeled) saliva that is put into this device and essentially one only needs a couple of about 50 nanoliters or so of saliva to go into this device
+<Sync time="1433.379"/>
+ it traverses through the device and then it was (benchmarked) to a standard (enzyme-linked immunosorbent assay) an (ELIZA) from the laboratory
+<Sync time="1444.258"/>
+ and what you can see on this (plot) is basically using the (micro-capillary electrophoresis) compared to the ELIZA they related very well so this test was just as good as the brute force method
+<Sync time="1459.866"/>
+ and then if you look at the groups of patients I got to mention the healthy the moderate disease and severe periodontitis using this detection device you could see that there is a strong (readout) for those patients who have elevated levels of one of these different biomarkers (MMP-8) 
+<Sync time="1479.255"/>
+ so and this is the size of the these (chips) that can be dropped in and out of the device to then you can drop in the protein of interest to measure that within the the fluid 
+<Sync time="1493.130"/>
+ so we've been able to use this then for the evaluation of multiple different biomarkers
+<Sync time="1500.058"/>
+ and so now you start to get a greater robustness in terms of using different components of the disease process microbial pathogens 
+<Sync time="1510.635"/>
+ using different markers of (inflammation) and then markers of (tissue destruction) in the same readout and so these are what are called oral (C-curves) in terms of the the (false positive) rate and the (true positive) rate and so these curves are basically as you go to the upper left-hand corner you're getting a stronger result
+<Sync time="1533.171"/>
+ and so a greater (predictability) in terms of an (odds ratio) in these 2 cases of 10 and 24 increased risk of periodontal disease if a patient has for example increased levels of (Matrix Metalloproteinase 8) and they're infected with (Treponema Denticola) a (pathogen) highly associated with (periodontitis) 
+<Sync time="1556.865"/>
+ right and so that's just taking a snapshot and we already have the tools available to identify you know if someone has periodontal disease or not I think as (clinicians) we know this
+<Sync time="1567.442"/>
+ but then how do we identify those people who are gonna undergo (progression)
+<Sync time="1571.833"/>
+and certainly there are a lot of factors that dictate that
+<Sync time="1575.341"/>
+ but this was part of doing a (longitudinal study) where we took a 100 patients and then we followed them for one year 
+<Sync time="1583.790"/>
+ and during that one year period at 2 month intervals they were they did not receive any treatment so they were we were disease monitoring
+<Sync time="1594.52"/>
+ so from an ethical standpoint if someone underwent progression then they received local treatment but it wasn't more than 2 millimeters of of (tissue loss) we we monitored them through the study
+<Sync time="1608.006"/>
+ and so after that 6 months of observation then we delivered (care) 
+<Sync time="1613.325"/>
+ measured progressive (bone loss) progressive (soft tissue loss) 
+<Sync time="1619.400"/>
+ so this may not project very well my apologies
+<Sync time="1624.273"/>
+ this is just a (patient flow) that demonstrates the the disposition of the patients throughout the (trial) and the the numbers of patients that were screened and out of the 100 that were entered 83 completed the 6 month portion of the study that I'll show you the results on
+<Sync time="1647.118"/>
+ so basically these 4 panels demonstrate (radiographic) (soft tissue) and (inflammatory) markers over time
+<Sync time="1656.091"/>
+ so again (disease monitoring) the first 6 months and then treatment at 6 months and then we looked at what happened after those first 6 months 
+<Sync time="1665.585"/>
+ and so as as predicted the periodontal disease didn't get better over time it tended to progress and then when the patients received treatment there were improvements steady improvements in those particular cases 
+<Sync time="1680.855"/>
+ so then the part that we are more interested in is to then look at the different biomarkers 
+<Sync time="1686.189"/>
+ the the signatures if you will of disease over time and then looking at the real time assessment of disease
+<Sync time="1694.605"/>
+ and so we looked at 30 different biomarkers but there was 6 of them that were most clos- closely evaluated (MMP-8) (MMP-9) (osteoprotegerin) and (calprotectin)
+<Sync time="1710.744"/>
+ and so what we're able to do is that these different biomarkers respond differentially obviously to (disease progression) and then resolution of disease
+<Sync time="1722.933"/>
+ and so then we were able to take this information and put it together and then connect it with the clinical outcomes
+<Sync time="1730.466"/>
+you know did a patient get better or did a patient get worse following the treatment 
+<Sync time="1735.365"/>
+ so I'll I'll put you through this is a (cluster analysis) that then puts together clinical (microbiological) (protein biomarker) and (serum) assessments of disease
+<Sync time="1750.691"/>
+ and essentially if a patient had this particular profile of elevated and reduced levels of these particular biomarkers and it's probably not so critically important that we go through each one of them except to say that there was a signature if a patient had this profile they tended to undergo (disease progression)
+<Sync time="1772.999"/>
+ whereas if a patient had the bottom profile which you could see that this was really suggestive even in the face of a microbial challenge without treatment these patients did better
+<Sync time="1785.421"/>
+ and they either remain stable or even slightly improved so these are the patients who are at lower risk for disease progression 
+<Sync time="1794.540"/>
+ so that was an example with periodontal disease and that (flowchart) just demonstrate it's very difficult to get the specific types of patients periodontal disease not as common
+<Sync time="1807.351"/>
+ and so one of our (graduate students) in the Periodontics Program Angie Lee actually embarked on a much more common oral disease that is (gingivitis)
+<Sync time="1818.129"/>
+ and what she did is look at genetic microbiological and protein biomarkers that could predict whether or not somebody had an (exacerbated) gingival (inflammatory profile)
+<Sync time="1830.585"/>
+ so this uses the classical (experimental gingivitis model) where patients cease (oral hygiene) for a period of 21 days and then you watch the development of the (plaque biofilm) you watch the development of the inflammation 
+<Sync time="1847.955"/>
+ and surprisingly this study was very easy to (enroll)
+<Sync time="1852.339"/>
+ it was the patients were paid a stipend to enroll and we've got a very large number of College students who enrolled in this study 
+<Sync time="1862.325"/>
+ and essentially they undergo a (pretrial phase) they're brought to a stage of (oral health) and then they cease all (oral hygiene) for 21 days then they undergo a (prophylaxis) 
+<Sync time="1874.115"/>
+ and so what we did was we stratified these patients based on a (susceptibility factor) that I'll talk about a little bit later called a susceptibility factor for a (polymorphism) of the (Interleukin 1 Beta) gene 
+<Sync time="1889.445"/>
+ and it's within the (promoter region) and I'll show you a little bit more about that later
+<Sync time="1893.965"/>
+ patients divided by that factor and then we looked at their progression of disease 
+<Sync time="1900.174"/>
+ and so this (IL-1) polymorphism what you can see here is within the promoter region there are 2 locations this (IL-1 A) and (IL-1 B) components of that gene
+<Sync time="1914.088"/>
+ and if there's a polymorphism in those locations that can be picked up by this rapid and there is a (saliva test) then the patients are identified as high risk for developing inflammation 
+<Sync time="1926.810"/>
+ and this is connected with other chronic (inflammatory diseases) such as (Crohn's disease) (Inflammatory Bowel) and some of these other types of diseases
+<Sync time="1936.159"/>
+ and so what it was able to then be used for is identifying patients who are at higher risk for over the 21 days to display a (gingival index) of 2 or 3 so that's almost (spontaneous bleeding)
+<Sync time="1949.884"/>
+ whereas other patients who really don't and we see them people who don't (brush) their teeth and they they still do pretty good they do well
+<Sync time="1957.345"/>
+ and so you know how do you discriminate between those patients
+<Sync time="1962.641"/>
+ and so we looked at and this was a collaboration with the Forsyth Institute looking at each one of these time points 
+<Sync time="1969.650"/>
+ it's not so important I know you can't read the different pathogens there
+<Sync time="1973.982"/>
+ but looking at 40 different pathogens and then you basically have a fingerprint of the plaque biofilm on the plaque biofilm on the tooth (root surface)
+<Sync time="1986.187"/>
+ and you can see the blue line is the genetic polymorphism and then the orange line is the negative the IL-1 of the patients who don't have the polymorphism
+<Sync time="1996.452"/>
+ and there was really no difference 
+<Sync time="1998.045"/>
+ and these studies usually with polymorphisms you need large numbers of patients to see something
+<Sync time="2003.68"/>
+but what was interesting was that those patients who had the propensity to develop the (inflammatory phenotype) 
+<Sync time="2012.565"/>
+ these patients tended to have high levels of (Interleukin 8) (Matrix Metalloproteinase 8) and (F nucleatum) (polymorphum)
+<Sync time="2022.67"/>
+ and you can see that these patients were at increased risk of d- of displaying that profile
+<Sync time="2029.916"/>
+ so again just another example of using these approaches to predict an oral condition 
+<Sync time="2036.820"/>
+ so the other area of (oral cancer) and actually that topic was very well covered by doctor Hassel I'm just going to give you a vignette of how (saliva diagnostics) are being used for oral cancer
+<Sync time="2051.156"/>
+ and again the same (paradigm) in terms of screening and then bringing the patient to the clinician (surgeon) for (histopathological) evaluations is the real the main concept
+<Sync time="2063.535"/>
+ and so if we look at the (disease prevalence) in terms of you know it's a cancer even though the proximity and being able to visualize it the outcomes are still not outstanding in terms of oral (cancer survival)
+<Sync time="2079.148"/>
+ so there is a very important need for the development of oral cancer diagnostics
+<Sync time="2086.325"/>
+ and so one (research group) at the UCLA School of Dentistry David Wong's group has developed a platform that actually is readily accessible and he shared these slides with me he calls it the (Salivaomics Knowledge Base) 
+<Sync time="2104.005"/>
+ and he's he's received quite a bit of funding from the NIDCR in the development of this database and then just very recently he has received funding as part of a (U-award) that will be collaborating with him on to look at a variety of diseases in terms of development of (chair-side diagnostics) for oral (cancer detection)
+<Sync time="2127.412"/>
+and so very similar to the other type of diagnostic I showed you 
+<Sync time="2131.980"/>
+ they have now developed a platform at UCLA were they have these different cassettes that can be dropped into this device
+<Sync time="2139.752"/>
+ again for a rapid evaluation of a variety of diseases oral cancer as one of them using IL-8 but also for (pancreatic cancer) (diabetes screening) and others
+<Sync time="2154.105"/>
+ and so what we're starting to see is that many of these different diagnostics are coming down the pipeline 
+<Sync time="2161.425"/>
+ (dental caries)
+<Sync time="2164.072"/>
+ this is an area in the last several years there has been a lot of progress being made in the development of different diagnostics I mean we've known for a long time the importance of diet and (oral hygiene) in terms of dental caries
+<Sync time="2180.887"/>
+ however it also has been shown by a variety of of researchers as well as in this room in terms of genetics of dental caries 
+<Sync time="2190.690"/>
+ and so with the use of (Genome-wide association studies) or (GWAS) screening now there is a very robust ability to identify a variety of different (SNPs) there are associated with disease and so this particular study from the group at the University of Pittsburgh what they have been able to identify is their predictions from this large study was that 40 to 60 percent of dental caries is really associated with genetics the genetics of the disease that's what they believe from their study 
+<Sync time="2228.550"/>
+ and the other (patient compliance) aspects diet making up the other part
+<Sync time="2236.038"/>
+ it's very similar to periodontal disease
+<Sync time="2238.443"/>
+ genetics appears to be responsible for about 50 percent of periodontal disease as well 
+<Sync time="2245.050"/>
+ and the use of (taste genes) this was I thought quite quite interesting in terms of certain patients have a predilection for wanting to go after the (sugary foods) and so the same group actually identified these taste genes that put patients at you know they can't control themselves in terms of wanting the the sugary foods to to put them at higher risk for dental caries and so 
+<Sync time="2273.715"/>
+ there's been a large amount of work done in this area
+<Sync time="2277.848"/>
+ and so this is just an example from that large GWAS study identifying on a variety of different (chromosomal locations) different SNPs that are putting patients at greater risk for the development of dental caries
+<Sync time="2294.269"/>
+ (treatment planning) 
+<Sync time="2297.175"/>
+ I will show you this is the last part of my presentation as as we look at the delivery of care for our patients the treatment planning aspects I think are are very important and so 
+<Sync time="2311.710"/>
+ if I give this example and I think it's important in (clinical care delivery) obviously the compliance patients control of oral hygiene measures if we talk about periodontal disease again using it as a model and really combining the role of the (bacterial challenge) and then the (host response) that is the makeup of the patient that may have either been dictated by (genetics) or (epigenetics) which also I'm skipping over that for this talk
+<Sync time="2341.814"/>
+ but epigenetic changes clearly have a very big role in periodontal disease just due to you know you've got decades of pathogens bathing the soft tissues and after a period of time we know there's a lot of (DNA hypermethylation) around the teeth themselves 
+<Sync time="2359.225"/>
+ and so if we really look at these 2 these 2 aspects and coming back to these different either polymorphisms which there have been at least 80 connected with risk of periodontal disease and the IL-1 gene variations have been the most well studied
+<Sync time="2378.641"/>
+ so gave the example of gingival inflammation but also very related to periodontal disease progression
+<Sync time="2386.547"/>
+ and so this is probably I think the best study that was done this is a group of patients in Sweden they're part of a very large maintenance practice so very homogeneous patient population and as Ken Kornman likes to call these are a 100 percent Viking population of patients
+<Sync time="2407.605"/>
+ these these individuals were followed for a period of time from 1988 to 1998
+<Sync time="2414.322"/>
+ they all had (risk factors) for periodontal disease and I think this was quite interesting 
+<Sync time="2419.260"/>
+ as he looked at those patients who don't smoke and we know (smoking) is a big risk factor for periodontal disease also negative for the (polymorphism IL-1) they have lower disease progression if we look at an output of (tooth loss) 
+<Sync time="2434.305"/>
+ you can measure (attachment) level but if you start losing teeth that's a very that's that's the best thing we have in dentistry to mortality (tooth mortality)
+<Sync time="2443.393"/>
+ and looking at what happens there versus these patients that either have 1 of the risk factors either a (non-smoker) in (IL-1 positive) or a (smoker) in (IL-1 negative) 
+<Sync time="2455.350"/>
+ increased risk however when you combine these 2 (IL-1) and a smoker then you can see these patients are at a big risk for developing (progressive disease) and eventually (tooth loss) 
+<Sync time="2468.700"/>
+ so this then led into a collaboration with Interleukin Genetics
+<Sync time="2474.507"/>
+ Ken Kornman (Chief Scientific Officer) at Interleukin Genetics and he is actually recently our #* for (visiting professor) and a #* of our (perio) program 
+<Sync time="2486.610"/>
+ we've and they just put out this press release today just coincidentally of the completion of a very large study that we did in collaboration with Interleukin
+<Sync time="2499.041"/>
+ to now connect genetic evaluation and see if it can relate to (personalized healthcare) and how you would deliver something very simple such as (maintenance therapy) to patients to patients globally not just patients with (periodontitis) but pat- the standard 6 month (profi) 
+<Sync time="2521.740"/>
+ and we don't even know why we use 6 months right
+<Sync time="2525.498"/>
+ I mean it's the (toothbrush) companies set up this paradigm of 6 months and it's worked very well but we know it's overkill for some patients and some patients that's not enough (maintenance care) 
+<Sync time="2537.625"/>
+ and so if we can use that model that you just saw from the the the Swedish study then we want to look at okay larger patient populations can that help us customize our care 
+<Sync time="2550.855"/>
+ so the primary objective of this investigation was to then look at evaluate dental patients who are classified as low-risk so we looked at a group of individuals between the ages of 30 and 50 who essentially had no periodontal procedures so we looked at (claims data)
+<Sync time="2571.825"/>
+right and then look at (practitioners) clinical decision making so we had the the end the (end results) were (tooth loss) or patients who received (advanced periodontal procedures)
+<Sync time="2585.126"/>
+ did they have (scaling) and (root planing) did they receive (periodontal surgery) and then the outcome is tooth loss
+<Sync time="2591.822"/>
+ to see what happens in terms of tooth loss 
+<Sync time="2594.295"/>
+ so we (recruited) patients and basically targeted a group of individuals these were actually the Michigan Teachers Association primarily now retired teachers and they're a very compliant group we found out
+<Sync time="2609.806"/>
+ and they send us letters all the time if we do a misstep in terms of materials we send them it's a so
+<Sync time="2617.656"/>
+ and what has been interesting is that so we stratified the (recruitment) of the patients based on these different risk factors and then we also had 15 years of data 
+<Sync time="2628.735"/>
+ that these patients came to the (dental office) at least once or twice a year for 15 years
+<Sync time="2634.536"/>
+ so we're really looking at a very well documented (patient population) 
+<Sync time="2639.460"/>
+ so the group at the Michigan Center for Oral Health Research then worked with MICHR and we basically contacted a large number of patients and then we sent out 9900 patients agreed to participate in this study
+<Sync time="2659.405"/>
+ and then out of those 9900 I'll show you the the the metrics in terms of what we received
+<Sync time="2665.096"/>
+ but we would send them basically demographic information for them to provide us as well as a DNA sample that originally can be used to look at this one study question and eventually you may be able to look through GWAS screening other different SNPs associated with periodontal disease 
+<Sync time="2683.530"/>
+ then the patients they did these (swabs) themselves at home and then sent the samples to us 
+<Sync time="2691.900"/>
+ so out of the 32000 patients originally consented I'll show you the number that agreed to participate so about just over a third of them agreed but then once we sent them the kit then it was about another half of them once they really started seeing the genetic information there some of them you know were still unwilling to participate or just didn't submit the kits
+<Sync time="2718.047"/>
+ but we received just over 54 100 of these and then what we'll be doing now in the next few months is now answering those study questions to determine whether or not that has a risk so there'll be there'll be more come on that to see how that can work but that's really in essence an example of of a way using it for personalized healthcare
+<Sync time="2741.056"/>
+ so my last three slides really thinking that as we bring this into perspective looking at saliva diagnostics we may be able to be able may be able to have something set up where we can do chair-side based diagnostics in the clinical practice for a rapid readout of information 
+<Sync time="2763.540"/>
+ and as we move forward really these are some of the key issues and I think that this will end up being a good segway for doctor Roberts because there are all kinds of science policy issues and things of that nature they're are really going to be important for us to assess in terms of how we're going to use this information 
+<Sync time="2783.625"/>
+ obviously we have to have good tests they have to be predictable and they will not make it to the chair side unless they perform in that manner we have to connect this with education from several sides in terms of the counseling 
+<Sync time="2797.605"/>
+ there are different (biobanks) that are being set up
+<Sync time="2800.899"/>
+ #* has biobanks also the UK has a large bio Bank of saliva (serum) looking at health outcomes of patients of the United Kingdom this will be valuable 
+<Sync time="2813.820"/>
+ and then lastly confidentiality
+<Sync time="2816.69"/>
+ so with that I like to thank you for your attention and I also like to thank the groups of from our lab group and all those at Michigan Center for Oral Health Research thank you
+<Sync time="2830.293"/>
+@applause &amp; @garbage-until-the-end
+<Sync time="2837.700"/>
+ material sciences so well really like to thank you for sharing your genetic data with us because can confirmed what many of us knew virtue all along and that that is indeed you are better than average and the categories 
+<Sync time="2860.830"/>
+ so I was watching and thinking through presentation I think of other potential really fabulous things do these Diagnostics 
+<Sync time="2871.870"/>
+ but that I was more in our typical dental practices all these things are fee for services and 
+<Sync time="2879.565"/>
+ I thought maybe is can I we even be the pay for this practices whereas it perhaps fits more medical model where a physician can do this and have insurance reimburse so even though our patients generally see 
+<Sync time="2895.120"/>
+ a dentist more often is a physician well our patients have got the physician to get told they need to see the dentist or how you see this of 
+<Sync time="2904.465"/>
+ working 
+<Sync time="2906.110"/>
+ also good questions the first one you notice I only showed the parts was a decreased risk of denture is a longer list 
+<Sync time="2916.810"/>
+ of example increased risk for should make it through this presentation but know how much farther 
+<Sync time="2923.410"/>
+ but the question that to provide in terms of how we pay for 
+<Sync time="2928.990"/>
+ this health care within dentistry and I think at a great question because Diagnostics have not fared well 
+<Sync time="2937.195"/>
+ in dentistry get as we look at medical model surgical model because we really are still overall situated and very much of a restorative type of 
+<Sync time="2949.630"/>
+ modus operandi in terms of how we deliver care Diagnostics have not been accepted by thirdparty payers at this point overall it's the biopsy in oral pathology but beyond that is a challenge because even if you look at that personalized medicine study were doing in there are no codes that we have in dentistry for diagnosis so all that information is missing and so we need to begin there terms of valuing a diagnosis and capturing that information 
+<Sync time="2983.470"/>
+ and then you know incorporating that into the dental office know how we do that doesn't need to be a partnership in terms of policy making because the professional community has to embrace this we have to embrace these new technologies 
+<Sync time="2997.555"/>
+ some of the mouth to be taken with a grain saw but in how we pay for them will be a big challenge they will have to be fairly inexpensive or connected directly with the treatment so there might be customized treatments where there as a 
+<Sync time="3014.055"/>
+ if going to receive this treatment in to have this test on the see okay what dosing what 
+<Sync time="3020.905"/>
+ what type of material may be that you'll receive but the cost structure has been a challenge because in dentistry we give away a lot of our exams relative to treatments right 
+<Sync time="3033.285"/>
+ diagnostic visit I think by a physician is much higher for a maybe a shorter treatment time that we charge so there are a lot of issues I think from the policy side that you bring up thick 
+<Sync time="3046.645"/>
+ and I think the doctor Roberts will touch on that better how can be 
+<Sync time="3054.060"/>
+ pressure the discussion 
+<Sync time="3059.715"/>
+ and I can suggest source of things that are currently available in this least the state of Michigan regarding reimbursement if your licensed practitioner 
+<Sync time="3068.775"/>
+ and you have a procedure that to do within the scope of your licensure there is no limit that the state of Michigan has on who is a provider can receive reimbursement 
+<Sync time="3081.795"/>
+ so your is a mechanism for dentist to collect medical reimbursement monies for procedures for which there are licensed to do so there is no restriction if this is an accepted procedure your licensed practitioner is covered under your licensure 
+<Sync time="3098.130"/>
+ yeah so everything that I I've presented right now I think these Diagnostics we haven't had them approved by regulatory agencies is that part of your question in terms of the approval process 
+<Sync time="3114.855"/>
+ so today his diet these saliva based Diagnostics are not approved and so in terms of the trajectory to have these presented to the after actually is a bit more of a straightforward 
+<Sync time="3131.355"/>
+ process for after the approval there have been a few diagnostic test approved by the after 
+<Sync time="3140.385"/>
+ but they're no longer available so one of them was a diagnostic test for periodontal disease using an enzyme called elastase there was another one using an enzyme called AST 
+<Sync time="3154.065"/>
+ aspartate aminotransferase those two enzymebased tests were out on the market for a couple of years but then 
+<Sync time="3162.885"/>
+ when went off the market there is one on the market in terms of the aisle one genetic test that is after approved and that is available and so that is available also didn't show there say microbial test 
+<Sync time="3177.330"/>
+ that looks at periodontal pathogens and that is available but then maybe answering your question more directly know can use that to say an evidencebased manner you should treat your patients based off of this it's more of 
+<Sync time="3196.620"/>
+ directional information on the parradile pathogen so a DNA probe analysis that's used in combination with the genetic test 
+<Sync time="3208.215"/>
+ the varied X corporation does have an appt cam test that is recently made available it's licensed and it is a if the approved test and also is specific for particular agent so the direction for that application to the the following the 
+<Sync time="3228.165"/>
+ the varied exmodel may be an appropriate approach to 
+<Sync time="3233.585"/>
+ questions first say very low risk for menopause 
+<Sync time="3242.535"/>
+ curious about composition of saliva on the parotid gland versus submandibular versus whole saliva that spit out initially 
+<Sync time="3251.955"/>
+ that change these diagnostic tests and how these practitioners supposed to manage that patients with stone 
+<Sync time="3258.765"/>
+ where we getting as 
+<Sync time="3261.600"/>
+ we state that in terms of change understand secreted biomarkers that and it's like if you patient spit 
+<Sync time="3271.585"/>
+ other secretions 
+<Sync time="3275.040"/>
+ compared to say milking the parotid duct pure form is test that so that's a great question in terms of 
+<Sync time="3287.280"/>
+ the sources of the saliva they're used some people have looked at a specific glands themselves some of these tests are being called saliva Diagnostics are basically a buccal swab that was being used for the 
+<Sync time="3302.335"/>
+ the interleukin one assessment and so I there is no answer to that in terms of what is the best biomarker because that the different sources for example the periodontal disease using a parrot 
+<Sync time="3315.990"/>
+ a protein biomarker you want that you see are that's the main the main proteins that actually appear in the saliva associate with inflammation is based off of that serum ultra filtrate if you will of the gingival crevicular fluid 
+<Sync time="3333.120"/>
+ a larger a lot of those very large proteins are all derived from the gingival crevicular fluid so some people have looked at separating out even looking at stimulated unstimulated saliva 
+<Sync time="3346.785"/>
+ taking from the parotid duct submandibular and it depends on the disease and what you use 
+<Sync time="3353.385"/>
+ I think what has happened is again there's been this thrust to develop rapid easy to use types of diagnostic so that twenty three and may test is really one that looks 
+<Sync time="3367.260"/>
+ can I you know is a very simple collection method to evaluate and so for DNA that ends up being a very good method just whole saliva and most everything I showed you was from whole saliva versus the buccal swab you'll get more of a cellular 
+<Sync time="3385.125"/>
+ type of collection so it's it's really specific but it's a good question and I this year actually has put together a working group to actually develop standardized methodologies on the collections of all these types of fluids I'm participating on that working group 
+<Sync time="3404.520"/>
+ and it's it's very challenging to come up surface pretty standardized you see everything 
+<Sync time="3411.580"/>
+ across the field so from a methodological approach is it's a great question that really needs to be sorted out 
+<Sync time="3420.675"/>
+ thank you 
+<Sync time="3433.860"/>
+</Turn>
+</Section>
+</Episode>
+</Trans>
