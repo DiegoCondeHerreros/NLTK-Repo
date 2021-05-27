@@ -5,7 +5,7 @@ Created on 24 may. 2021
 @author: DIEGO
 '''
 import nltk
-#from nltk.metrics.scores import accuracy, precision,recall,f_measure
+from nltk.metrics.scores import  precision,recall,f_measure
 import codecs
 filehandle = codecs.open("SmarTerp/Rondeau_Seminars_Orthodontics_Level_II_Sample_Case_-_Mai_Part_1.trs", 'r',encoding='utf8',errors='ignore')
 #Parseamos excel
@@ -19,7 +19,7 @@ while True:
     if(not (line[0][0]=="<")):
         if (not (line[0][0]=="@")):
             line_raw.append(split_line)
-            line_raw.append("\n")
+            #line_raw.append("\n")
 # close the pointer to that file
 filehandle.close()
 #Convertimos esta lista de listas en una única lista
@@ -47,8 +47,8 @@ for n,i in enumerate(split_annotations):
         tags.insert(n,"B-MISC")
     elif ((i[0].isupper())  and (split_annotations[n-1][0].isupper())):
         tags.insert(n,"I-MISC")
-    elif(i is "\n"):
-        tags.insert(n," ")
+    #elif(i is "\n"):
+    #    tags.insert(n," ")
     else:
         tags.insert(n,"O")           
 #Ponemos las palabras en mayúscula en minúscula para la predicción
@@ -64,12 +64,13 @@ reference_annotations = list(group(reference_annotations,2))
 
 
 
-print(split_annotations)
+#print(split_annotations)
+"""
 raw=""
 raw1=""
 #Guardamos el documento en bruto y el documento anotado en diferentes ficheros para hacer las pruebas aquí y en spacy
 f = codecs.open("SmarTerp/Rondeau_Raw.txt","x",encoding="utf-8",errors='ignore')
-raw = " ".join(split_annotations)
+
 raw.encode('utf-8').strip()
 f.write(raw)
 f.close()
@@ -79,8 +80,8 @@ raw1.encode('utf-8').strip()
 f.write("-DOCSTART-  O \n \n")
 f.write(raw1)
 f.close()
-
-
+"""
+#IMPORTANTE: AL PASARLE EL DETECTOR DE ORACIONES DEVUELVE UNA ÚNICA ORACIÓN, NO SE PUEDE MEJORAR LOS RESULTADOS EN ESTE ÁMBITO
 #Obtenemos etiquetado POS
 tagged_words= nltk.pos_tag(split_annotations)
 #Obtenemos etiquetado de EN 
@@ -101,25 +102,20 @@ for n,i in enumerate(listed_ne):
         listed_ne[n]="I-MISC"
 #Paso a tuplas
 nltk_formatted_prediction=list(group(listed_ne,2))
-for n,i in enumerate(nltk_formatted_prediction):
-    if(i[1]=="B-MISC"):
-        print(i)
-    if(i[1]=="I-MISC"):
-        print(i)
 #Da resultados muy buenos, 94.50, 93.73, 94.50 pero no son datos significativos porque al imprimir por pantalla las entidades nombradas
 #lo pone todo como O, es razonable pensar que al no estar las palabras en mayúsculas el clasificador no las reconoce siquiera como EN.         
-"""       
+print(len(reference_annotations))
+print(len(nltk_formatted_prediction))
 #Calculamos las distintas puntuaciones.
 nltk_precision=precision(set(reference_annotations),set(nltk_formatted_prediction))
-nltk_accuracy=accuracy(reference_annotations, nltk_formatted_prediction)
+#nltk_accuracy=accuracy(reference_annotations, nltk_formatted_prediction)
 nltk_recall=recall(set(reference_annotations), set(nltk_formatted_prediction))
 nltk_f=f_measure(set(reference_annotations), set(nltk_formatted_prediction),1)
 print("NLTK-Precision")
 print(nltk_precision)
-print("NLTK-Accuracy")
-print(nltk_accuracy)    
+#print("NLTK-Accuracy")
+#print(nltk_accuracy)    
 print("NLTK-Recall")
 print(nltk_recall)
 print("NLTK-F1")
 print(nltk_f)
-"""
